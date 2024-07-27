@@ -120,23 +120,23 @@ authenticator.login()
 if st.session_state["authentication_status"]:
     authenticator.logout()
     st.write(f'Welcome *{st.session_state["name"]}*')
-    st.title("Some content")
     st.header("Brum Brum SL  :truck:")
 
-    with st.sidebar:
-        with st.echo():
-            "SIDEBAR"
+    # with st.sidebar:
+    #     with st.echo():
+    #         # "SIDEBAR"
 
-        with st.spinner("Loading..."):
-            time.sleep(0)
-        st.success("Done!")
+    #     with st.spinner("Loading..."):
+    #         time.sleep(0)
+    #     st.success("Done!")
 
     df = pd.read_csv(
         "/home/sakurajima/Documents/dexter_lab/python_local/projects/kedro_etl/shipments.csv",
         sep=";",
         encoding="latin1",
     )
-
+    df["Date"] = pd.to_datetime(df["Date"], yearfirst=True)
+    df["Gross Margin"] = df["Invoiced Value"] * df["Markup"]
     # df.columns
 
     df = filter_dataframe(df)
