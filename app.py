@@ -138,16 +138,6 @@ if st.session_state["authentication_status"]:
     )
 
     # df.columns
-    df["Date"] = pd.to_datetime(df["Date"], yearfirst=True)
-    df["Gross Margin"] = df["Invoiced Value"] * df["Markup"]
-
-    destination_df = df.groupby(by=["Destination"]).count()
-    destination_df = destination_df.sort_values(by=["Origin"], ascending=False)
-    destination_df["shipment_number"]
-
-    origin_df = df.groupby(by=["Origin"]).count()
-    origin_df.sort_values(by=["Destination"], ascending=False)
-    origin_df["shipment_number"]
 
     df = filter_dataframe(df)
 
