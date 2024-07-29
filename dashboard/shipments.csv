@@ -1,0 +1,1201 @@
+shipment_number;Customer;Date;Origin;Destination;Weight (kgs);Volume (cubic meters);Invoiced Value;Cost Value;Markup;Department;sales_ex
+1;CarterGroup;2024-06-24;Muscat;Barcelona;1565;2.44;10907.36;8588.47;0.27;Air Import;Michael Scott DDS
+2;Henderson,BoydandShelton;2024-07-24;Johanesburg;Barcelona;3359;1.89;9847.63;8714.72;0.13;Import Sea;Brady Wells
+3;ShortLtd;2023-09-03;New York;Barcelona;1688;1.4;1395.93;1269.03;0.1;Import Sea;Michael Scott DDS
+4;ElliottLtd;2023-10-21;Tokyo;Barcelona;190;2.31;8389.96;7990.44;0.05;Import Sea;Brenda Koch
+5;Waters,ReynoldsandHoward;2023-04-10;Barcelona;Casablanca;437;1.13;10392.05;9278.62;0.12;Air Export;Brady Wells
+6;ShortLtd;2024-07-17;Barcelona;Riyadh;3750;2.23;6539.85;5069.65;0.29;Air Export;Michael Scott DDS
+7;BlueHorizon Steel;2023-09-17;Riyadh;Barcelona;1979;2.09;6398.68;4998.97;0.28;Import Sea;Brenda Koch
+8;StellarWave Manufacturing;2023-11-03;Johanesburg;Barcelona;3660;1.34;9440.86;8069.11;0.17;Import Sea;Dustin Martinez
+9;BlueHorizon Steel;2023-01-13;Shanghai;Barcelona;986;4.37;6208.82;5174.02;0.2;Import Sea;Brenda Koch
+10;GreenWave Manufacturing;2023-12-12;Sydney;Barcelona;1008;3.62;6544.2;5949.27;0.1;Air Import;Joseph Jordan
+11;UltraNet Foundry;2024-01-02;Dubai;Barcelona;3034;3.25;5048.48;4006.73;0.26;Import Sea;Brenda Koch
+12;AeroNext Engineering;2024-06-22;Casablanca;Barcelona;2841;1.16;6974.44;5860.87;0.19;Import Sea;Phillip Greer
+13;Stone,WestandBurns;2024-07-23;Sydney;Barcelona;1827;5.57;1945.38;1818.11;0.07;Import Sea;Phillip Greer
+14;HintonLLC;2024-04-07;Tokyo;Barcelona;523;3.48;2517.35;2030.12;0.24;Import Sea;Ryan Camacho
+15;VitalEdge Manufacturing;2023-05-24;Johanesburg;Barcelona;248;1.53;4815.35;4299.42;0.12;Import Sea;Joseph Jordan
+16;Stone,WestandBurns;2024-01-14;Delhi;Barcelona;1731;4.52;3927.21;3300.18;0.19;Air Import;Phillip Greer
+17;VitalEdge Manufacturing;2024-04-23;Sydney;Barcelona;3216;3.15;7147.27;5627.77;0.27;Import Sea;Joseph Jordan
+18;TerraVista Fabrication;2023-08-18;Johanesburg;Barcelona;535;4.38;1733.57;1507.45;0.15;Import Sea;Brenda Koch
+19;CrystalClear Machining;2023-12-31;Buenos Aires;Barcelona;435;4.1;9368.79;8674.81;0.08;Import Sea;Ryan Camacho
+20;CarterGroup;2024-02-02;Dubai;Barcelona;3051;4.89;7799.91;7358.41;0.06;Import Sea;Michael Scott DDS
+21;GarciaGroup;2024-02-20;Delhi;Barcelona;2084;4.16;4023.28;3193.08;0.26;Import Sea;Daniel Goodman
+22;Williams,GouldandLewis;2023-11-18;Riyadh;Barcelona;2384;6.44;6502.48;5965.58;0.09;Air Import;Michael Scott DDS
+23;ZenithWorks Industries;2024-02-02;Shanghai;Barcelona;575;1.89;6399.17;5160.62;0.24;Import Sea;Patrick Barber
+24;Allen,WilliamsandWhite;2023-11-10;Tokyo;Barcelona;1824;6.8;2212.89;2030.17;0.09;Import Sea;Ryan Camacho
+25;Mcdaniel,MooreandJackson;2023-02-11;Dubai;Barcelona;2482;2.46;4464.49;4251.9;0.05;Air Import;Brenda Koch
+26;Walker,CruzandGarcia;2023-06-30;New York;Barcelona;3635;3.48;4807.88;3877.32;0.24;Air Import;Michael Scott DDS
+27;Bennett,VillegasandFowler;2024-05-17;Barcelona;Tokyo;2109;1.18;7405.86;5972.47;0.24;Air Export;Dustin Martinez
+28;Henderson,BoydandShelton;2024-03-25;Casablanca;Barcelona;551;4.68;5855.11;4760.25;0.23;Air Import;Brady Wells
+29;HintonGroup;2023-05-13;Buenos Aires;Barcelona;3812;1.82;10815.23;8864.94;0.22;Air Import;Ryan Camacho
+30;HintonGroup;2023-01-13;Shanghai;Barcelona;2041;2.87;11490.25;9192.2;0.25;Import Sea;Ryan Camacho
+31;MortonandSons;2023-05-22;Sydney;Barcelona;3053;4.44;8997.16;7197.73;0.25;Air Import;Brenda Koch
+32;NovaSphere Fabrication;2023-07-14;Casablanca;Barcelona;3211;3.02;7677.06;5997.7;0.28;Air Import;Ryan Camacho
+33;EcoVista Steelworks;2023-01-26;Casablanca;Barcelona;3890;6.48;2714.54;2154.4;0.26;Air Import;Joseph Jordan
+34;Wells-Randall;2023-03-09;Muscat;Barcelona;2110;1.44;6711.21;5202.49;0.29;Import Sea;Michael Scott DDS
+35;PureWave Fabrication;2024-02-16;Buenos Aires;Barcelona;568;2.58;7349.44;6281.57;0.17;Air Import;Brady Wells
+36;NexaTech Manufacturing;2023-02-15;Chicago;Barcelona;2121;2.22;10849.65;9863.32;0.1;Air Import;Brady Wells
+37;CarterGroup;2023-03-20;Shanghai;Barcelona;3037;5.49;4605.26;3626.19;0.27;Air Import;Michael Scott DDS
+38;SummitRise Steelworks;2023-01-07;Buenos Aires;Barcelona;1944;3.04;1632.98;1498.15;0.09;Import Sea;Tammy Houston
+39;Williams,GouldandLewis;2023-04-02;New York;Barcelona;1320;1.92;4942.46;4118.72;0.2;Import Sea;Michael Scott DDS
+40;GreenWave Manufacturing;2023-06-04;Riyadh;Barcelona;3029;1.96;2058.2;1905.74;0.08;Import Sea;Joseph Jordan
+41;PureWave Fabrication;2023-05-24;Chicago;Barcelona;3557;4.0;4915.19;4130.41;0.19;Import Sea;Brady Wells
+42;SwiftStream Foundry;2024-05-08;Dubai;Barcelona;3552;1.12;2990.85;2513.32;0.19;Import Sea;Daniel Goodman
+43;LeachGroup;2023-05-01;Muscat;Barcelona;1607;4.72;2895.92;2454.17;0.18;Air Import;Tammy Houston
+44;Harris,CrawfordandScott;2023-02-15;Johanesburg;Barcelona;588;3.33;4710.23;3991.72;0.18;Air Import;Ryan Camacho
+45;NexaTech Manufacturing;2023-03-12;Doha;Barcelona;3731;1.63;10846.5;9950.92;0.09;Air Import;Brady Wells
+46;ElliottLtd;2024-06-12;New York;Barcelona;919;1.04;11001.09;9483.7;0.16;Import Sea;Brenda Koch
+47;SkyHigh Engineering;2024-03-02;Shanghai;Barcelona;2803;6.29;8719.65;7327.44;0.19;Air Import;Tammy Houston
+48;GreenWave Manufacturing;2024-04-14;Johanesburg;Barcelona;848;3.93;2245.08;1870.9;0.2;Import Sea;Joseph Jordan
+49;SwiftStream Foundry;2024-04-01;Dubai;Barcelona;1771;6.55;10475.31;9523.01;0.1;Import Sea;Daniel Goodman
+50;HintonLLC;2024-03-12;Tokyo;Barcelona;570;1.57;11835.45;9781.36;0.21;Import Sea;Ryan Camacho
+51;HintonGroup;2023-04-11;Chicago;Barcelona;2171;3.45;3806.3;3119.92;0.22;Import Sea;Ryan Camacho
+52;Walker,CruzandGarcia;2023-12-12;Buenos Aires;Barcelona;740;5.15;8564.15;6962.72;0.23;Import Sea;Michael Scott DDS
+53;SwiftStream Foundry;2023-06-06;Buenos Aires;Barcelona;536;3.25;6640.41;5270.17;0.26;Import Sea;Daniel Goodman
+54;BlueHorizon Steel;2023-10-12;Tokyo;Barcelona;2239;3.89;3824.06;3508.31;0.09;Air Import;Brenda Koch
+55;OmniTech Fabrication;2024-01-08;Casablanca;Barcelona;1740;5.79;1126.85;1063.07;0.06;Import Sea;Patrick Barber
+56;Wells-Randall;2023-12-10;Los Angeles;Barcelona;1998;1.79;10948.36;9775.32;0.12;Import Sea;Michael Scott DDS
+57;TerraVista Fabrication;2023-01-14;Muscat;Barcelona;889;6.4;7006.01;5937.3;0.18;Air Import;Brenda Koch
+58;SwiftStream Foundry;2023-07-14;Casablanca;Barcelona;2202;4.8;2481.88;2256.25;0.1;Import Sea;Daniel Goodman
+59;SwiftStream Foundry;2023-03-15;Shanghai;Barcelona;2714;1.07;2710.83;2442.19;0.11;Air Import;Daniel Goodman
+60;Harris,CrawfordandScott;2023-02-01;Muscat;Barcelona;3419;1.89;7325.66;6261.25;0.17;Air Import;Ryan Camacho
+61;EcoVista Steelworks;2024-05-27;Riyadh;Barcelona;2162;5.33;2879.25;2570.76;0.12;Air Import;Joseph Jordan
+62;Chandler,TurnerandHouston;2023-03-05;Delhi;Barcelona;1738;1.61;8810.91;7281.74;0.21;Air Import;Ryan Camacho
+63;PureWave Fabrication;2023-06-21;Chicago;Barcelona;2317;5.65;6467.94;5053.08;0.28;Air Import;Brady Wells
+64;VitalEdge Manufacturing;2024-04-24;New York;Barcelona;3989;4.86;2559.82;2285.55;0.12;Import Sea;Joseph Jordan
+65;ZenithWorks Industries;2024-02-18;Shanghai;Barcelona;425;3.91;9392.34;7395.54;0.27;Air Import;Patrick Barber
+66;Ward-Wilcox;2024-03-08;New York;Barcelona;1988;5.67;10589.53;9208.29;0.15;Air Import;Michael Scott DDS
+67;Klein,RobinsonandMiller;2024-05-14;Tokyo;Barcelona;3563;2.28;6567.34;5661.5;0.16;Air Import;Daniel Goodman
+68;PrismPeak Manufacturing;2023-10-06;Sydney;Barcelona;2818;3.49;6146.13;4764.44;0.29;Air Import;Tammy Houston
+69;Santiago,HarrisandLynch;2023-07-06;Johanesburg;Barcelona;2523;5.45;9676.56;8131.56;0.19;Air Import;Joseph Jordan
+70;Mcdaniel,MooreandJackson;2023-11-30;Tokyo;Barcelona;983;2.71;861.13;820.12;0.05;Air Import;Brenda Koch
+71;SummitRise Steelworks;2023-01-07;Johanesburg;Barcelona;3809;5.0;7610.35;5992.4;0.27;Air Import;Tammy Houston
+72;OptiCore Fabrication;2023-08-07;Doha;Barcelona;1248;4.82;10519.49;8415.59;0.25;Air Import;Phillip Greer
+73;SmithLtd;2023-07-03;Muscat;Barcelona;775;6.53;1421.43;1316.14;0.08;Import Sea;Ryan Camacho
+74;ZenithWorks Industries;2023-04-27;Los Angeles;Barcelona;2801;3.91;854.19;790.92;0.08;Air Import;Patrick Barber
+75;Stone,WestandBurns;2023-01-25;Chicago;Barcelona;1921;2.0;7636.6;6879.82;0.11;Import Sea;Phillip Greer
+76;PeakPerformance Engineering;2023-09-30;Johanesburg;Barcelona;2382;3.72;3051.01;2607.7;0.17;Air Import;Ryan Camacho
+77;Chandler,TurnerandHouston;2023-11-09;Riyadh;Barcelona;3994;4.53;11539.51;9697.07;0.19;Air Import;Ryan Camacho
+78;Wells-Randall;2024-04-01;Casablanca;Barcelona;1706;4.68;12041.57;9870.14;0.22;Import Sea;Michael Scott DDS
+79;OmniTech Fabrication;2023-11-10;Delhi;Barcelona;1529;4.31;10428.07;9394.66;0.11;Air Import;Patrick Barber
+80;EcoVista Steelworks;2024-01-29;Shanghai;Barcelona;1085;6.09;1506.68;1177.09;0.28;Import Sea;Joseph Jordan
+81;Ward-Hays;2024-07-23;Buenos Aires;Barcelona;1705;5.98;3000.73;2362.78;0.27;Import Sea;Joseph Jordan
+82;EcoVista Steelworks;2023-04-16;Chicago;Barcelona;2762;1.44;10164.89;9157.56;0.11;Import Sea;Joseph Jordan
+83;HintonLLC;2023-12-19;Dubai;Barcelona;351;3.39;9350.87;7727.99;0.21;Air Import;Ryan Camacho
+84;Nolan,MeyersandJohnson;2023-01-29;Tokyo;Barcelona;1061;5.46;10598.35;9998.44;0.06;Import Sea;Ryan Camacho
+85;Ascendia SteelworksMartin-Holden;2023-03-13;Delhi;Barcelona;3826;3.97;7160.19;6067.96;0.18;Air Import;Joseph Jordan
+86;HintonGroup;2024-04-27;Riyadh;Barcelona;1804;4.1;6152.91;5493.67;0.12;Import Sea;Ryan Camacho
+87;Klein,RobinsonandMiller;2023-08-04;Los Angeles;Barcelona;210;6.67;2947.73;2754.89;0.07;Air Import;Daniel Goodman
+88;NexaTech Manufacturing;2023-12-31;Muscat;Barcelona;2403;1.14;11757.3;9185.39;0.28;Air Import;Brady Wells
+89;SmithLtd;2023-09-24;Tokyo;Barcelona;466;5.79;1420.02;1127.0;0.26;Air Import;Ryan Camacho
+90;SkyHigh Engineering;2023-10-11;Tokyo;Barcelona;1599;3.93;3925.6;3443.51;0.14;Import Sea;Tammy Houston
+91;PrismPeak Manufacturing;2023-06-05;Sydney;Barcelona;3903;3.93;1433.84;1280.21;0.12;Import Sea;Tammy Houston
+92;PureWave Fabrication;2024-01-01;Sydney;Barcelona;3704;2.97;10538.63;8709.61;0.21;Import Sea;Brady Wells
+93;NexaTech Manufacturing;2023-12-05;Sydney;Barcelona;129;3.65;7981.51;6880.61;0.16;Import Sea;Brady Wells
+94;Wells-Randall;2024-03-12;Barcelona;New York;269;1.51;9103.45;7056.94;0.29;Air Export;Michael Scott DDS
+95;PrismPeak Manufacturing;2023-12-15;Buenos Aires;Barcelona;1767;1.13;10029.31;7835.4;0.28;Import Sea;Tammy Houston
+96;OptiCore Fabrication;2023-08-12;Sydney;Barcelona;1969;3.66;4282.36;3928.77;0.09;Import Sea;Phillip Greer
+97;StellarWave Manufacturing;2024-04-02;Casablanca;Barcelona;1151;6.27;1247.33;1133.94;0.1;Import Sea;Dustin Martinez
+98;StellarWave Manufacturing;2023-02-24;Shanghai;Barcelona;1642;4.9;1783.28;1371.75;0.3;Import Sea;Dustin Martinez
+99;Wells-Randall;2023-04-12;Shanghai;Barcelona;3940;3.47;10919.61;8950.5;0.22;Import Sea;Michael Scott DDS
+100;OmniTech Fabrication;2024-03-31;Barcelona;Johanesburg;1243;5.48;6564.31;5967.55;0.1;Air Export;Patrick Barber
+101;Klein,RobinsonandMiller;2023-11-30;Shanghai;Barcelona;695;5.01;5982.14;5157.02;0.16;Import Sea;Daniel Goodman
+102;PrismPeak Manufacturing;2023-08-10;Chicago;Barcelona;114;3.22;6055.15;5045.96;0.2;Import Sea;Tammy Houston
+103;CrystalClear Machining;2023-09-18;Casablanca;Barcelona;318;1.1;2831.78;2646.52;0.07;Import Sea;Ryan Camacho
+104;Nolan,MeyersandJohnson;2024-03-23;Buenos Aires;Barcelona;2543;5.92;8790.4;7991.27;0.1;Air Import;Ryan Camacho
+105;InfiniteCrest Engineering;2024-03-04;Delhi;Barcelona;2706;2.2;2942.24;2536.41;0.16;Air Import;Ryan Camacho
+106;QuantumEcho Foundry;2023-08-16;Buenos Aires;Barcelona;1647;1.44;3835.42;3306.4;0.16;Air Import;Brenda Koch
+107;Waters,ReynoldsandHoward;2023-04-21;Buenos Aires;Barcelona;3767;6.68;7180.18;5934.03;0.21;Import Sea;Brady Wells
+108;ShortLtd;2023-05-02;Shanghai;Barcelona;3281;1.63;2576.04;2300.04;0.12;Air Import;Michael Scott DDS
+109;HorizonX Foundry;2024-06-27;Buenos Aires;Barcelona;1686;1.88;5470.77;5210.26;0.05;Air Import;Patrick Barber
+110;GarciaGroup;2023-05-10;Riyadh;Barcelona;3237;2.22;3043.9;2495.0;0.22;Import Sea;Daniel Goodman
+111;OmniTech Fabrication;2024-05-15;Buenos Aires;Barcelona;225;3.82;4391.77;4104.46;0.07;Import Sea;Patrick Barber
+112;MortonandSons;2023-02-01;Buenos Aires;Barcelona;3729;1.68;12726.61;9865.59;0.29;Air Import;Brenda Koch
+113;Harris,CrawfordandScott;2023-04-24;Los Angeles;Barcelona;1292;4.44;9981.43;7921.77;0.26;Air Import;Ryan Camacho
+114;EcoVista Steelworks;2023-08-14;Shanghai;Barcelona;1974;5.42;5274.26;4323.16;0.22;Import Sea;Joseph Jordan
+115;SkyHigh Engineering;2023-12-28;Casablanca;Barcelona;2085;4.5;2803.86;2279.56;0.23;Import Sea;Tammy Houston
+116;Ascendia SteelworksMartin-Holden;2023-10-16;Barcelona;Los Angeles;1230;6.56;5654.03;4711.69;0.2;Export Sea;Joseph Jordan
+117;Wells-Randall;2023-11-05;Casablanca;Barcelona;3220;5.75;7078.16;6263.86;0.13;Import Sea;Michael Scott DDS
+118;PureWave Fabrication;2023-07-11;Chicago;Barcelona;3721;1.64;8612.69;7361.27;0.17;Import Sea;Brady Wells
+119;Henderson,BoydandShelton;2024-03-31;Tokyo;Barcelona;1200;6.13;3134.56;2749.61;0.14;Air Import;Brady Wells
+120;ShortLtd;2024-01-13;Delhi;Barcelona;3291;4.41;9496.47;7783.99;0.22;Air Import;Michael Scott DDS
+121;HintonLLC;2023-09-18;Los Angeles;Barcelona;1350;5.53;11364.86;8878.8;0.28;Air Import;Ryan Camacho
+122;GreenWave Manufacturing;2023-04-28;Buenos Aires;Barcelona;3866;1.2;10009.88;9099.89;0.1;Import Sea;Joseph Jordan
+123;ShortLtd;2023-09-11;Los Angeles;Barcelona;632;5.26;751.72;659.4;0.14;Air Import;Michael Scott DDS
+124;Martinez-Wilson;2024-04-18;Shanghai;Barcelona;300;3.03;2788.99;2267.47;0.23;Import Sea;Dustin Martinez
+125;Bass-Bolton;2023-02-16;New York;Barcelona;3373;3.33;4876.21;4240.18;0.15;Air Import;Brenda Koch
+126;UltraNet Foundry;2023-08-18;Los Angeles;Barcelona;2852;5.25;6754.56;5925.05;0.14;Air Import;Brenda Koch
+127;SkyHigh Engineering;2023-04-27;Muscat;Barcelona;1030;3.55;2061.88;1792.94;0.15;Air Import;Tammy Houston
+128;AeroNext Engineering;2024-03-03;Barcelona;Johanesburg;174;6.03;8860.6;7573.16;0.17;Air Export;Phillip Greer
+129;Simmons-Turner;2023-07-03;Riyadh;Barcelona;1084;5.38;7547.5;6799.55;0.11;Import Sea;Patrick Barber
+130;Ascendia SteelworksMartin-Holden;2023-06-19;Barcelona;Sydney;3124;2.13;1243.43;1036.19;0.2;Air Export;Joseph Jordan
+131;RapidFlow Machining;2023-06-04;Casablanca;Barcelona;1726;2.62;7069.22;6606.75;0.07;Import Sea;Ryan Camacho
+132;SmithLtd;2024-04-01;Johanesburg;Barcelona;3790;1.06;1459.47;1303.1;0.12;Import Sea;Ryan Camacho
+133;EcoVista Steelworks;2023-07-15;Delhi;Barcelona;2340;5.28;6720.59;6054.59;0.11;Import Sea;Joseph Jordan
+134;Klein,RobinsonandMiller;2023-05-14;Chicago;Barcelona;1329;5.46;824.37;704.59;0.17;Import Sea;Daniel Goodman
+135;MortonandSons;2024-06-30;Barcelona;Los Angeles;3347;3.52;4965.81;4208.31;0.18;Export Sea;Brenda Koch
+136;Walker,CruzandGarcia;2024-06-26;Riyadh;Barcelona;1436;4.41;4509.53;4254.27;0.06;Air Import;Michael Scott DDS
+137;Waters,ReynoldsandHoward;2024-03-06;Shanghai;Barcelona;772;3.72;11177.16;9392.57;0.19;Import Sea;Brady Wells
+138;Ascendia SteelworksMartin-Holden;2023-04-03;Muscat;Barcelona;1624;6.73;11154.33;9784.5;0.14;Air Import;Joseph Jordan
+139;ZenithWorks Industries;2023-02-17;Casablanca;Barcelona;3214;5.88;6522.04;5527.15;0.18;Import Sea;Patrick Barber
+140;Klein,RobinsonandMiller;2023-03-12;Barcelona;Sydney;3713;4.23;7765.73;6581.13;0.18;Export Sea;Daniel Goodman
+141;GreenWave Manufacturing;2023-09-06;Barcelona;Johanesburg;3311;1.22;4154.7;3709.55;0.12;Air Export;Joseph Jordan
+142;OmniTech Fabrication;2023-04-10;New York;Barcelona;1248;4.82;9567.2;7972.67;0.2;Air Import;Patrick Barber
+143;Ascendia SteelworksMartin-Holden;2023-02-17;Los Angeles;Barcelona;1809;6.69;7968.3;7378.06;0.08;Air Import;Joseph Jordan
+144;Waters,ReynoldsandHoward;2023-12-20;Muscat;Barcelona;979;5.3;9761.66;8794.29;0.11;Air Import;Brady Wells
+145;Walker,CruzandGarcia;2023-12-24;Chicago;Barcelona;1274;5.79;4985.76;4491.68;0.11;Import Sea;Michael Scott DDS
+146;SmithLtd;2023-05-22;Johanesburg;Barcelona;2899;2.77;7944.79;6305.39;0.26;Import Sea;Ryan Camacho
+147;Perry-Garcia;2023-07-18;Doha;Barcelona;1305;6.32;11444.05;9536.71;0.2;Import Sea;Joseph Jordan
+148;Ward-Wilcox;2023-12-13;Muscat;Barcelona;1071;4.49;7218.12;6622.13;0.09;Import Sea;Michael Scott DDS
+149;Waters,ReynoldsandHoward;2023-09-25;Los Angeles;Barcelona;314;2.21;7375.6;5673.54;0.3;Air Import;Brady Wells
+150;NexaTech Manufacturing;2024-06-12;Shanghai;Barcelona;1608;1.89;11409.51;9127.61;0.25;Air Import;Brady Wells
+151;ApexFusion Works;2024-04-04;Barcelona;New York;2796;4.75;7490.28;6089.66;0.23;Air Export;Joseph Jordan
+152;Harris,CrawfordandScott;2024-07-21;Los Angeles;Barcelona;3307;3.78;10566.68;9109.21;0.16;Air Import;Ryan Camacho
+153;LeachGroup;2024-02-03;Delhi;Barcelona;2919;6.1;744.19;581.4;0.28;Import Sea;Tammy Houston
+154;Martinez-Wilson;2023-11-18;Buenos Aires;Barcelona;338;1.2;2225.66;1935.36;0.15;Import Sea;Dustin Martinez
+155;CrystalClear Machining;2023-05-07;Tokyo;Barcelona;3833;4.68;8820.65;7412.31;0.19;Import Sea;Ryan Camacho
+156;PeakPerformance Engineering;2023-04-24;Doha;Barcelona;3572;1.52;7035.57;6013.31;0.17;Air Import;Ryan Camacho
+157;HintonGroup;2023-09-25;Dubai;Barcelona;1344;2.7;6644.56;5932.64;0.12;Air Import;Ryan Camacho
+158;SmithLtd;2024-06-21;Barcelona;Los Angeles;1247;6.48;2730.48;2133.19;0.28;Export Sea;Ryan Camacho
+159;UltraNet Foundry;2023-03-08;Delhi;Barcelona;3248;2.05;969.76;850.67;0.14;Import Sea;Brenda Koch
+160;ZenithWorks Industries;2024-05-04;Barcelona;Sydney;1662;4.9;8933.46;7570.73;0.18;Air Export;Patrick Barber
+161;Ward-Wilcox;2024-07-11;Riyadh;Barcelona;2656;6.96;2216.92;1862.96;0.19;Import Sea;Michael Scott DDS
+162;SummitRise Steelworks;2024-07-12;Johanesburg;Barcelona;3960;2.64;2245.04;1767.75;0.27;Import Sea;Tammy Houston
+163;Bennett,VillegasandFowler;2023-06-02;Muscat;Barcelona;2180;3.65;3236.88;2568.95;0.26;Air Import;Dustin Martinez
+164;SwiftStream Foundry;2024-03-26;Johanesburg;Barcelona;3982;4.96;4304.91;4061.24;0.06;Air Import;Daniel Goodman
+165;Mcdaniel,MooreandJackson;2023-05-24;Tokyo;Barcelona;510;4.86;12175.92;9366.09;0.3;Air Import;Brenda Koch
+166;Walker,CruzandGarcia;2023-10-17;Shanghai;Barcelona;3358;6.06;5088.89;4007.0;0.27;Import Sea;Michael Scott DDS
+167;Ward-Wilcox;2023-08-01;Doha;Barcelona;3970;2.32;12769.36;9976.06;0.28;Air Import;Michael Scott DDS
+168;TerraVista Fabrication;2023-04-26;Doha;Barcelona;3590;3.69;8028.93;6747.0;0.19;Import Sea;Brenda Koch
+169;SkyHigh Engineering;2023-08-04;Muscat;Barcelona;3673;1.25;9838.52;7626.76;0.29;Air Import;Tammy Houston
+170;EcoVista Steelworks;2024-01-31;Johanesburg;Barcelona;805;5.43;4169.98;3257.8;0.28;Air Import;Joseph Jordan
+171;EcoVista Steelworks;2024-06-05;Delhi;Barcelona;2237;1.99;9140.06;7616.72;0.2;Air Import;Joseph Jordan
+172;BlueHorizon Steel;2023-06-06;Los Angeles;Barcelona;2650;2.01;3013.58;2643.49;0.14;Import Sea;Brenda Koch
+173;TerraVista Fabrication;2023-03-19;Buenos Aires;Barcelona;2374;3.8;4849.48;3848.79;0.26;Import Sea;Brenda Koch
+174;MortonandSons;2024-06-17;New York;Barcelona;3785;6.14;7631.79;6105.43;0.25;Import Sea;Brenda Koch
+175;Wells-Randall;2024-05-03;Buenos Aires;Barcelona;236;1.44;10814.78;8721.6;0.24;Import Sea;Michael Scott DDS
+176;GreenWave Manufacturing;2024-02-14;Delhi;Barcelona;663;3.89;3229.05;2583.24;0.25;Import Sea;Joseph Jordan
+177;InfiniteCrest Engineering;2023-02-15;Barcelona;Tokyo;1401;4.89;1022.96;805.48;0.27;Export Sea;Ryan Camacho
+178;MortonandSons;2023-11-16;Doha;Barcelona;1030;4.21;5452.75;4226.94;0.29;Air Import;Brenda Koch
+179;Stone,WestandBurns;2023-05-18;Casablanca;Barcelona;2011;5.06;8365.18;6746.11;0.24;Import Sea;Phillip Greer
+180;QuantumEcho Foundry;2024-02-02;Riyadh;Barcelona;768;6.91;5285.25;4129.1;0.28;Air Import;Brenda Koch
+181;Mcdaniel,MooreandJackson;2023-03-10;Buenos Aires;Barcelona;1816;5.58;1955.88;1730.87;0.13;Air Import;Brenda Koch
+182;Wells-Randall;2023-11-28;Chicago;Barcelona;200;1.26;4752.28;4168.67;0.14;Air Import;Michael Scott DDS
+183;Ward-Hays;2023-08-31;Buenos Aires;Barcelona;1188;6.93;5314.11;4465.64;0.19;Import Sea;Joseph Jordan
+184;Ward-Wilcox;2023-10-05;Los Angeles;Barcelona;615;2.18;5489.9;4223.0;0.3;Air Import;Michael Scott DDS
+185;Harris,CrawfordandScott;2023-04-10;Sydney;Barcelona;444;1.11;6139.72;5632.77;0.09;Air Import;Ryan Camacho
+186;PureWave Fabrication;2024-02-23;Los Angeles;Barcelona;2516;6.31;5190.82;4676.41;0.11;Air Import;Brady Wells
+187;SwiftStream Foundry;2023-09-10;Muscat;Barcelona;1744;3.58;11912.0;9844.63;0.21;Import Sea;Daniel Goodman
+188;MortonandSons;2024-04-21;Delhi;Barcelona;2603;2.46;4529.67;3566.67;0.27;Air Import;Brenda Koch
+189;Henderson,BoydandShelton;2023-03-24;Los Angeles;Barcelona;1333;5.22;11151.12;9140.26;0.22;Import Sea;Brady Wells
+190;CarterGroup;2024-03-16;Los Angeles;Barcelona;484;5.12;6216.14;4818.71;0.29;Import Sea;Michael Scott DDS
+191;PrismPeak Manufacturing;2023-07-07;Johanesburg;Barcelona;3808;5.12;6780.24;5745.97;0.18;Air Import;Tammy Houston
+192;VitalEdge Manufacturing;2023-10-17;Dubai;Barcelona;2582;3.08;10935.12;9592.21;0.14;Air Import;Joseph Jordan
+193;RapidFlow Machining;2024-07-01;Dubai;Barcelona;1432;3.67;10167.62;8199.69;0.24;Air Import;Ryan Camacho
+194;PrismPeak Manufacturing;2023-02-08;Chicago;Barcelona;3702;2.28;2628.26;2136.8;0.23;Air Import;Tammy Houston
+195;UrbanEdge Machinery;2023-06-15;Buenos Aires;Barcelona;678;6.48;5284.25;4403.54;0.2;Import Sea;Phillip Greer
+196;Wells-Randall;2023-11-25;Tokyo;Barcelona;3072;1.78;7428.32;6403.72;0.16;Import Sea;Michael Scott DDS
+197;HorizonX Foundry;2023-09-10;Delhi;Barcelona;3520;2.5;8795.97;7924.3;0.11;Import Sea;Patrick Barber
+198;Klein,RobinsonandMiller;2024-02-08;Johanesburg;Barcelona;1593;2.42;7973.13;7521.82;0.06;Air Import;Daniel Goodman
+199;UrbanEdge Machinery;2024-07-01;Dubai;Barcelona;585;4.24;6018.05;5373.26;0.12;Air Import;Phillip Greer
+200;Chandler,TurnerandHouston;2023-04-07;Los Angeles;Barcelona;334;4.31;2688.58;2185.84;0.23;Air Import;Ryan Camacho
+201;UltraNet Foundry;2024-01-16;Casablanca;Barcelona;1175;2.49;9767.73;7571.88;0.29;Import Sea;Brenda Koch
+202;Nolan,MeyersandJohnson;2023-05-02;Barcelona;Tokyo;303;1.52;1084.52;1032.88;0.05;Export Sea;Ryan Camacho
+203;OptiCore Fabrication;2023-03-01;Delhi;Barcelona;1156;6.49;10014.61;8208.7;0.22;Air Import;Phillip Greer
+204;Santiago,HarrisandLynch;2023-05-05;Sydney;Barcelona;2201;2.63;4705.38;3987.61;0.18;Air Import;Joseph Jordan
+205;Ascendia SteelworksMartin-Holden;2023-02-11;Dubai;Barcelona;1064;1.06;11339.41;8790.24;0.29;Import Sea;Joseph Jordan
+206;QuantumEcho Foundry;2024-07-09;Shanghai;Barcelona;2137;2.96;5596.31;5279.54;0.06;Import Sea;Brenda Koch
+207;SwiftStream Foundry;2023-05-14;Dubai;Barcelona;3149;5.5;6454.77;5163.82;0.25;Import Sea;Daniel Goodman
+208;OmniTech Fabrication;2024-04-27;Muscat;Barcelona;2979;5.13;5412.71;4832.78;0.12;Air Import;Patrick Barber
+209;ShortLtd;2023-02-23;Johanesburg;Barcelona;2707;1.26;5547.66;4368.24;0.27;Import Sea;Michael Scott DDS
+210;Santiago,HarrisandLynch;2023-04-01;Tokyo;Barcelona;2475;4.95;644.62;555.71;0.16;Import Sea;Joseph Jordan
+211;ZenithWorks Industries;2023-06-27;Tokyo;Barcelona;1568;6.98;6567.05;6137.43;0.07;Import Sea;Patrick Barber
+212;Ward-Hays;2023-01-05;Shanghai;Barcelona;2446;5.49;5781.45;5208.51;0.11;Import Sea;Joseph Jordan
+213;EcoVista Steelworks;2023-10-22;Los Angeles;Barcelona;3213;4.61;4896.35;4371.74;0.12;Import Sea;Joseph Jordan
+214;RapidFlow Machining;2023-10-11;Shanghai;Barcelona;1065;2.27;8948.2;8134.73;0.1;Air Import;Ryan Camacho
+215;UltraNet Foundry;2023-07-03;Buenos Aires;Barcelona;3411;5.37;836.87;680.38;0.23;Import Sea;Brenda Koch
+216;Santiago,HarrisandLynch;2024-03-30;Doha;Barcelona;3059;6.07;5953.61;4579.7;0.3;Air Import;Joseph Jordan
+217;Stone,WestandBurns;2024-02-17;Muscat;Barcelona;1566;3.62;5708.71;4459.93;0.28;Import Sea;Phillip Greer
+218;MortonandSons;2023-01-01;Tokyo;Barcelona;1051;2.1;9303.72;7325.76;0.27;Air Import;Brenda Koch
+219;StellarWave Manufacturing;2023-12-13;Shanghai;Barcelona;908;3.04;862.38;763.17;0.13;Air Import;Dustin Martinez
+220;NexaTech Manufacturing;2024-03-23;Delhi;Barcelona;1375;5.97;7432.0;5851.97;0.27;Air Import;Brady Wells
+221;RapidFlow Machining;2023-04-16;Doha;Barcelona;3229;1.51;3337.94;2828.76;0.18;Air Import;Ryan Camacho
+222;Henderson,BoydandShelton;2023-10-19;Barcelona;Tokyo;355;1.57;733.01;637.4;0.15;Export Sea;Brady Wells
+223;StellarWave Manufacturing;2023-07-12;Los Angeles;Barcelona;1905;3.72;1599.7;1355.68;0.18;Import Sea;Dustin Martinez
+224;LeachGroup;2023-06-26;Barcelona;Sydney;3188;1.94;9065.86;7748.6;0.17;Air Export;Tammy Houston
+225;InfiniteCrest Engineering;2023-12-12;Johanesburg;Barcelona;1799;1.89;2505.59;1942.32;0.29;Air Import;Ryan Camacho
+226;LeachGroup;2023-01-27;Buenos Aires;Barcelona;3408;2.97;1279.68;1174.02;0.09;Air Import;Tammy Houston
+227;Bass-Bolton;2023-10-17;Chicago;Barcelona;1943;3.39;3955.03;3089.87;0.28;Air Import;Brenda Koch
+228;QuantumEcho Foundry;2024-04-05;Chicago;Barcelona;832;5.46;1060.19;981.66;0.08;Air Import;Brenda Koch
+229;InfiniteCrest Engineering;2023-12-11;Casablanca;Barcelona;2129;4.79;10096.46;9615.68;0.05;Air Import;Ryan Camacho
+230;ElliottLtd;2023-03-09;Casablanca;Barcelona;1506;3.44;7815.43;6567.59;0.19;Import Sea;Brenda Koch
+231;SolarFlare Fabrication;2023-06-10;Los Angeles;Barcelona;340;2.42;8704.85;6854.21;0.27;Import Sea;Michael Scott DDS
+232;CarterGroup;2023-11-03;Barcelona;Muscat;1505;5.21;3071.34;2694.16;0.14;Export Sea;Michael Scott DDS
+233;Ascendia SteelworksMartin-Holden;2023-11-04;Barcelona;Chicago;3595;1.63;6684.01;5915.05;0.13;Export Sea;Joseph Jordan
+234;GreenWave Manufacturing;2023-12-09;Johanesburg;Barcelona;2839;5.14;7835.13;6475.31;0.21;Air Import;Joseph Jordan
+235;LeachGroup;2023-11-14;New York;Barcelona;1644;5.66;9209.99;8008.69;0.15;Import Sea;Tammy Houston
+236;StellarWave Manufacturing;2024-01-09;Buenos Aires;Barcelona;1030;4.31;1651.37;1435.97;0.15;Import Sea;Dustin Martinez
+237;Ascendia SteelworksMartin-Holden;2024-04-18;Muscat;Barcelona;3308;3.78;7961.53;6690.36;0.19;Import Sea;Joseph Jordan
+238;SmithLtd;2023-05-20;Delhi;Barcelona;2013;4.49;6553.29;5649.39;0.16;Import Sea;Ryan Camacho
+239;CarterGroup;2023-05-10;Johanesburg;Barcelona;977;5.9;9647.72;7596.63;0.27;Air Import;Michael Scott DDS
+240;Perry-Garcia;2024-02-25;Dubai;Barcelona;2043;6.4;961.81;788.37;0.22;Import Sea;Joseph Jordan
+241;QuantumEcho Foundry;2023-07-22;Muscat;Barcelona;3151;5.15;6292.11;5880.48;0.07;Air Import;Brenda Koch
+242;Ascendia SteelworksMartin-Holden;2024-06-13;Buenos Aires;Barcelona;183;5.43;3697.43;3423.55;0.08;Air Import;Joseph Jordan
+243;UltraNet Foundry;2024-06-24;Casablanca;Barcelona;2128;1.13;7508.81;7151.25;0.05;Import Sea;Brenda Koch
+244;ElliottLtd;2023-06-17;Shanghai;Barcelona;1631;6.29;4922.7;4558.06;0.08;Air Import;Brenda Koch
+245;PureWave Fabrication;2024-02-04;Sydney;Barcelona;2848;6.93;6059.62;4697.38;0.29;Import Sea;Brady Wells
+246;OmniTech Fabrication;2023-11-21;Riyadh;Barcelona;3872;5.91;9668.13;7612.7;0.27;Import Sea;Patrick Barber
+247;InfiniteCrest Engineering;2023-04-30;Barcelona;New York;1578;3.42;8034.68;6867.25;0.17;Air Export;Ryan Camacho
+248;Henderson,BoydandShelton;2024-05-21;Chicago;Barcelona;526;5.47;2115.46;1762.88;0.2;Air Import;Brady Wells
+249;StellarWave Manufacturing;2024-01-10;Muscat;Barcelona;2901;1.76;9930.47;8139.73;0.22;Air Import;Dustin Martinez
+250;RapidFlow Machining;2023-01-16;Shanghai;Barcelona;476;2.17;11291.87;9819.02;0.15;Import Sea;Ryan Camacho
+251;InfiniteCrest Engineering;2024-03-31;Muscat;Barcelona;1600;2.22;7159.67;5727.74;0.25;Import Sea;Ryan Camacho
+252;SkyHigh Engineering;2023-02-06;Riyadh;Barcelona;2900;1.88;10004.27;9263.21;0.08;Import Sea;Tammy Houston
+253;LeachGroup;2023-11-20;Shanghai;Barcelona;2447;3.09;874.73;728.94;0.2;Air Import;Tammy Houston
+254;SummitRise Steelworks;2024-01-10;Chicago;Barcelona;1785;3.91;11108.22;9918.05;0.12;Air Import;Tammy Houston
+255;GarciaGroup;2024-06-25;Buenos Aires;Barcelona;2885;6.62;6928.71;6186.35;0.12;Air Import;Daniel Goodman
+256;Henderson,BoydandShelton;2024-06-19;Delhi;Barcelona;1055;6.34;11716.09;9082.24;0.29;Air Import;Brady Wells
+257;Ward-Hays;2023-12-19;Sydney;Barcelona;3085;5.11;2587.2;2192.54;0.18;Air Import;Joseph Jordan
+258;HintonLLC;2023-05-31;Chicago;Barcelona;2582;1.95;1442.06;1276.16;0.13;Import Sea;Ryan Camacho
+259;Allen,WilliamsandWhite;2023-01-01;Barcelona;Sydney;1028;2.86;11028.2;9759.47;0.13;Air Export;Ryan Camacho
+260;HintonGroup;2023-10-24;Los Angeles;Barcelona;2449;4.95;3513.47;3223.37;0.09;Air Import;Ryan Camacho
+261;CarterGroup;2024-03-29;Shanghai;Barcelona;3816;4.71;4193.47;3381.83;0.24;Air Import;Michael Scott DDS
+262;GarciaGroup;2024-07-05;Tokyo;Barcelona;813;2.56;8160.94;7035.29;0.16;Air Import;Daniel Goodman
+263;Wells-Randall;2024-02-17;Dubai;Barcelona;3761;2.29;1931.43;1709.23;0.13;Air Import;Michael Scott DDS
+264;Ward-Hays;2023-11-28;Muscat;Barcelona;1513;1.8;2921.75;2394.88;0.22;Import Sea;Joseph Jordan
+265;Simmons-Turner;2024-03-04;Shanghai;Barcelona;1963;3.14;7573.07;5963.05;0.27;Air Import;Patrick Barber
+266;NovaSphere Fabrication;2023-11-24;New York;Barcelona;1079;1.12;1684.76;1517.8;0.11;Import Sea;Ryan Camacho
+267;Klein,RobinsonandMiller;2023-09-20;Barcelona;Buenos Aires;3110;6.14;6219.53;5015.75;0.24;Air Export;Daniel Goodman
+268;PeakPerformance Engineering;2023-10-17;Delhi;Barcelona;3919;5.48;9906.54;8187.22;0.21;Import Sea;Ryan Camacho
+269;EcoVista Steelworks;2023-08-02;Riyadh;Barcelona;2205;6.73;6713.58;6216.28;0.08;Import Sea;Joseph Jordan
+270;SwiftStream Foundry;2024-01-27;Muscat;Barcelona;693;5.93;720.9;680.09;0.06;Air Import;Daniel Goodman
+271;Mcdaniel,MooreandJackson;2024-04-03;Doha;Barcelona;2520;1.34;1133.11;885.24;0.28;Import Sea;Brenda Koch
+272;PureWave Fabrication;2023-07-22;New York;Barcelona;675;1.9;2067.09;1896.41;0.09;Air Import;Brady Wells
+273;Walker,CruzandGarcia;2023-01-09;Dubai;Barcelona;1231;2.74;612.74;510.62;0.2;Air Import;Michael Scott DDS
+274;UrbanEdge Machinery;2023-03-04;Tokyo;Barcelona;2974;2.69;5025.75;4527.7;0.11;Import Sea;Phillip Greer
+275;SummitRise Steelworks;2024-03-28;Casablanca;Barcelona;1653;6.98;2658.96;2292.21;0.16;Import Sea;Tammy Houston
+276;QuantumForge Industries;2023-11-12;New York;Barcelona;3794;6.83;8293.77;6798.17;0.22;Import Sea;Ryan Camacho
+277;Harris,CrawfordandScott;2023-01-12;Johanesburg;Barcelona;423;4.29;4596.62;3591.11;0.28;Import Sea;Ryan Camacho
+278;Harris,CrawfordandScott;2023-07-16;Delhi;Barcelona;1852;2.74;6861.62;5578.55;0.23;Import Sea;Ryan Camacho
+279;CarterGroup;2024-04-18;Tokyo;Barcelona;304;6.69;7925.38;6443.4;0.23;Import Sea;Michael Scott DDS
+280;HintonGroup;2023-11-14;Johanesburg;Barcelona;2931;2.31;11663.71;9719.76;0.2;Import Sea;Ryan Camacho
+281;LeachGroup;2023-09-13;Muscat;Barcelona;3777;2.2;4502.58;4020.16;0.12;Import Sea;Tammy Houston
+282;RapidFlow Machining;2024-02-19;Buenos Aires;Barcelona;2053;2.71;2349.73;1974.56;0.19;Import Sea;Ryan Camacho
+283;Ascendia SteelworksMartin-Holden;2023-09-16;Muscat;Barcelona;362;1.11;1950.3;1681.29;0.16;Import Sea;Joseph Jordan
+284;SummitRise Steelworks;2023-12-13;Sydney;Barcelona;1203;5.82;11221.16;8905.68;0.26;Import Sea;Tammy Houston
+285;SwiftStream Foundry;2023-05-11;Johanesburg;Barcelona;1251;1.45;9676.77;7741.42;0.25;Import Sea;Daniel Goodman
+286;SolarFlare Fabrication;2024-06-16;Muscat;Barcelona;2023;4.74;8234.32;7352.07;0.12;Air Import;Michael Scott DDS
+287;OptiCore Fabrication;2024-02-11;Buenos Aires;Barcelona;3945;1.69;3988.61;3380.18;0.18;Import Sea;Phillip Greer
+288;GarciaGroup;2023-12-16;Dubai;Barcelona;3830;1.04;4060.25;3657.88;0.11;Import Sea;Daniel Goodman
+289;Wells-Randall;2024-04-28;Delhi;Barcelona;3740;6.05;4921.05;4354.91;0.13;Import Sea;Michael Scott DDS
+290;Klein,RobinsonandMiller;2024-03-02;New York;Barcelona;256;4.87;6094.48;4798.8;0.27;Air Import;Daniel Goodman
+291;InfiniteCrest Engineering;2023-01-24;New York;Barcelona;542;3.35;6709.99;5591.66;0.2;Air Import;Ryan Camacho
+292;RapidFlow Machining;2023-05-26;Barcelona;Chicago;3284;6.41;8411.56;7861.27;0.07;Export Sea;Ryan Camacho
+293;Henderson,BoydandShelton;2024-06-19;New York;Barcelona;3867;5.63;2512.82;2010.26;0.25;Air Import;Brady Wells
+294;BrightMinds Machining;2023-07-18;Muscat;Barcelona;2109;3.76;4949.83;4194.77;0.18;Import Sea;Ryan Camacho
+295;GarciaGroup;2023-01-09;Johanesburg;Barcelona;2588;1.74;6732.55;5343.29;0.26;Air Import;Daniel Goodman
+296;UrbanEdge Machinery;2024-04-09;Doha;Barcelona;2777;4.74;8028.92;6372.16;0.26;Import Sea;Phillip Greer
+297;Simmons-Turner;2023-10-24;Casablanca;Barcelona;2260;5.98;10471.48;8310.7;0.26;Air Import;Patrick Barber
+298;HorizonX Foundry;2023-08-21;Casablanca;Barcelona;2992;3.92;9680.87;7870.63;0.23;Air Import;Patrick Barber
+299;OptiCore Fabrication;2023-03-18;Johanesburg;Barcelona;3708;1.56;1418.12;1212.07;0.17;Import Sea;Phillip Greer
+300;Waters,ReynoldsandHoward;2023-07-24;Johanesburg;Barcelona;2805;6.31;7849.28;6381.53;0.23;Import Sea;Brady Wells
+301;PureWave Fabrication;2024-03-07;Buenos Aires;Barcelona;2977;5.13;10271.19;8087.55;0.27;Air Import;Brady Wells
+302;LeachGroup;2024-01-05;Tokyo;Barcelona;794;4.5;4897.31;4014.19;0.22;Air Import;Tammy Houston
+303;Henderson,BoydandShelton;2023-12-07;Doha;Barcelona;1022;6.06;2528.96;2218.39;0.14;Air Import;Brady Wells
+304;InfiniteCrest Engineering;2024-05-19;Casablanca;Barcelona;2152;5.32;8058.88;6447.1;0.25;Import Sea;Ryan Camacho
+305;BlueHorizon Steel;2023-02-11;Tokyo;Barcelona;3111;2.09;1273.84;1107.69;0.15;Import Sea;Brenda Koch
+306;Harris,CrawfordandScott;2023-04-28;Shanghai;Barcelona;322;5.95;1113.3;927.75;0.2;Air Import;Ryan Camacho
+307;AeroNext Engineering;2023-12-04;Doha;Barcelona;1445;4.54;4756.46;3774.97;0.26;Import Sea;Phillip Greer
+308;EcoVista Steelworks;2024-05-17;Muscat;Barcelona;1673;5.82;5050.85;4040.68;0.25;Air Import;Joseph Jordan
+309;Stone,WestandBurns;2024-06-25;Riyadh;Barcelona;2811;4.25;7203.89;5541.45;0.3;Air Import;Phillip Greer
+310;NovaSphere Fabrication;2023-09-11;Johanesburg;Barcelona;2319;1.24;9844.57;9115.34;0.08;Air Import;Ryan Camacho
+311;UrbanEdge Machinery;2024-06-24;Doha;Barcelona;635;5.22;4089.95;3380.12;0.21;Import Sea;Phillip Greer
+312;NexaTech Manufacturing;2023-05-07;Tokyo;Barcelona;518;4.3;11163.78;9303.15;0.2;Air Import;Brady Wells
+313;UrbanEdge Machinery;2024-06-09;Chicago;Barcelona;150;4.67;8617.48;7365.37;0.17;Air Import;Phillip Greer
+314;Martinez-Wilson;2023-09-15;Delhi;Barcelona;3930;6.59;10748.51;8883.07;0.21;Import Sea;Dustin Martinez
+315;InfiniteCrest Engineering;2023-01-21;Dubai;Barcelona;2183;3.02;5143.76;4322.49;0.19;Air Import;Ryan Camacho
+316;SkyHigh Engineering;2023-04-22;Muscat;Barcelona;1587;2.43;5064.94;4646.73;0.09;Import Sea;Tammy Houston
+317;CarterGroup;2023-10-30;Casablanca;Barcelona;899;3.71;3777.45;3403.11;0.11;Air Import;Michael Scott DDS
+318;Stone,WestandBurns;2023-05-18;Johanesburg;Barcelona;2653;2.94;11172.68;9310.57;0.2;Import Sea;Phillip Greer
+319;Bass-Bolton;2024-06-28;Casablanca;Barcelona;1452;4.01;7739.84;6972.83;0.11;Air Import;Brenda Koch
+320;VitalEdge Manufacturing;2023-11-11;Casablanca;Barcelona;1389;3.97;11026.05;8750.83;0.26;Import Sea;Joseph Jordan
+321;Allen,WilliamsandWhite;2024-06-09;Casablanca;Barcelona;2814;4.79;4246.81;3568.75;0.19;Air Import;Ryan Camacho
+322;Henderson,BoydandShelton;2023-03-24;Casablanca;Barcelona;329;6.91;7851.58;6710.75;0.17;Import Sea;Brady Wells
+323;NexaTech Manufacturing;2023-10-20;Johanesburg;Barcelona;1283;5.76;9356.95;7733.02;0.21;Air Import;Brady Wells
+324;HorizonX Foundry;2024-01-29;Doha;Barcelona;1979;3.74;9104.07;7341.99;0.24;Air Import;Patrick Barber
+325;Walker,CruzandGarcia;2024-01-19;Riyadh;Barcelona;497;3.94;3097.16;2497.71;0.24;Air Import;Michael Scott DDS
+326;Wells-Randall;2024-02-08;Doha;Barcelona;2511;1.33;2540.3;2396.51;0.06;Air Import;Michael Scott DDS
+327;NexaTech Manufacturing;2023-06-26;Delhi;Barcelona;2408;2.37;1134.95;953.74;0.19;Import Sea;Brady Wells
+328;Chandler,TurnerandHouston;2024-04-06;Barcelona;New York;312;5.55;3559.89;3042.64;0.17;Export Sea;Ryan Camacho
+329;AeroNext Engineering;2023-02-11;Los Angeles;Barcelona;443;6.47;3151.89;2481.8;0.27;Air Import;Phillip Greer
+330;SolarFlare Fabrication;2024-03-12;Shanghai;Barcelona;193;3.53;2431.77;1929.98;0.26;Air Import;Michael Scott DDS
+331;OptiCore Fabrication;2023-03-22;Dubai;Barcelona;557;3.02;6056.61;5089.59;0.19;Import Sea;Phillip Greer
+332;Allen,WilliamsandWhite;2023-10-14;Casablanca;Barcelona;922;6.37;1312.87;1017.73;0.29;Import Sea;Ryan Camacho
+333;Henderson,BoydandShelton;2023-02-20;Delhi;Barcelona;754;2.29;11419.27;9844.2;0.16;Air Import;Brady Wells
+334;SkyHigh Engineering;2024-05-01;Riyadh;Barcelona;3423;3.53;7454.42;6212.02;0.2;Air Import;Tammy Houston
+335;MortonandSons;2024-01-06;Buenos Aires;Barcelona;1022;3.27;1771.07;1595.56;0.11;Air Import;Brenda Koch
+336;HintonGroup;2024-04-04;Doha;Barcelona;810;1.21;3694.57;2955.66;0.25;Import Sea;Ryan Camacho
+337;Williams,GouldandLewis;2024-07-13;Shanghai;Barcelona;2123;4.05;7816.23;6354.66;0.23;Air Import;Michael Scott DDS
+338;ShortLtd;2024-05-29;Riyadh;Barcelona;596;2.38;7809.02;6100.8;0.28;Import Sea;Michael Scott DDS
+339;SolarFlare Fabrication;2023-11-23;Buenos Aires;Barcelona;3271;2.88;660.66;512.14;0.29;Air Import;Michael Scott DDS
+340;SummitRise Steelworks;2023-11-20;Dubai;Barcelona;734;4.24;9911.5;9010.45;0.1;Import Sea;Tammy Houston
+341;ApexFusion Works;2024-06-09;Delhi;Barcelona;3231;5.99;5362.5;4395.49;0.22;Import Sea;Joseph Jordan
+342;Walker,CruzandGarcia;2023-10-01;Buenos Aires;Barcelona;2853;3.53;11024.19;9670.34;0.14;Air Import;Michael Scott DDS
+343;UltraNet Foundry;2023-07-20;Casablanca;Barcelona;238;3.4;1550.94;1303.31;0.19;Air Import;Brenda Koch
+344;SolarFlare Fabrication;2023-04-21;Dubai;Barcelona;1885;3.43;8510.1;7091.75;0.2;Air Import;Michael Scott DDS
+345;GreenWave Manufacturing;2023-07-20;Buenos Aires;Barcelona;2995;6.91;6977.82;5451.42;0.28;Import Sea;Joseph Jordan
+346;AeroNext Engineering;2024-03-29;Doha;Barcelona;1394;3.75;11340.08;8790.76;0.29;Air Import;Phillip Greer
+347;HintonGroup;2023-03-15;Barcelona;Johanesburg;179;5.22;6363.16;5302.63;0.2;Air Export;Ryan Camacho
+348;Walker,CruzandGarcia;2024-05-06;Muscat;Barcelona;3176;6.13;7059.25;6085.56;0.16;Import Sea;Michael Scott DDS
+349;Chandler,TurnerandHouston;2023-11-24;Shanghai;Barcelona;821;6.15;11715.14;9372.11;0.25;Air Import;Ryan Camacho
+350;QuantumEcho Foundry;2024-04-24;Tokyo;Barcelona;3864;6.66;3647.47;3408.85;0.07;Air Import;Brenda Koch
+351;StellarWave Manufacturing;2023-12-28;Chicago;Barcelona;2148;6.09;3052.11;2725.1;0.12;Air Import;Dustin Martinez
+352;SolarFlare Fabrication;2023-11-24;Delhi;Barcelona;695;4.28;11193.43;8610.33;0.3;Import Sea;Michael Scott DDS
+353;GarciaGroup;2023-02-12;Doha;Barcelona;3511;4.55;1924.3;1564.47;0.23;Import Sea;Daniel Goodman
+354;LeachGroup;2023-04-14;Muscat;Barcelona;2091;6.85;3046.96;2477.2;0.23;Air Import;Tammy Houston
+355;BlueHorizon Steel;2023-04-22;New York;Barcelona;878;3.96;8008.18;6786.59;0.18;Import Sea;Brenda Koch
+356;HorizonX Foundry;2023-05-27;Shanghai;Barcelona;3734;4.67;2281.29;2001.13;0.14;Air Import;Patrick Barber
+357;MortonandSons;2024-07-08;Buenos Aires;Barcelona;3383;2.32;9988.95;9423.54;0.06;Import Sea;Brenda Koch
+358;HorizonX Foundry;2023-11-14;Buenos Aires;Barcelona;2944;4.76;3250.65;3009.86;0.08;Air Import;Patrick Barber
+359;UrbanEdge Machinery;2024-01-23;Shanghai;Barcelona;3630;5.03;3003.1;2681.34;0.12;Import Sea;Phillip Greer
+360;Simmons-Turner;2024-04-13;Casablanca;Barcelona;3375;4.26;9761.81;8562.99;0.14;Air Import;Patrick Barber
+361;CrystalClear Machining;2024-05-12;Casablanca;Barcelona;2665;6.26;4080.26;3428.79;0.19;Import Sea;Ryan Camacho
+362;PeakPerformance Engineering;2024-06-20;Delhi;Barcelona;328;1.63;6750.64;6027.36;0.12;Air Import;Ryan Camacho
+363;Waters,ReynoldsandHoward;2023-03-14;Casablanca;Barcelona;1557;3.95;5409.54;4327.63;0.25;Import Sea;Brady Wells
+364;LeachGroup;2024-07-02;Riyadh;Barcelona;3601;2.59;2043.12;1716.91;0.19;Import Sea;Tammy Houston
+365;Stone,WestandBurns;2024-05-28;Chicago;Barcelona;3152;1.59;1205.64;972.29;0.24;Air Import;Phillip Greer
+366;CarterGroup;2023-05-19;Barcelona;Tokyo;2730;2.38;9680.82;8000.68;0.21;Export Sea;Michael Scott DDS
+367;Klein,RobinsonandMiller;2024-03-17;Los Angeles;Barcelona;2948;1.37;6880.28;5417.54;0.27;Air Import;Daniel Goodman
+368;QuantumEcho Foundry;2023-11-20;Chicago;Barcelona;3401;5.57;9569.84;8249.86;0.16;Air Import;Brenda Koch
+369;Klein,RobinsonandMiller;2023-01-14;Casablanca;Barcelona;2246;2.15;5223.76;4081.06;0.28;Import Sea;Daniel Goodman
+370;BrightMinds Machining;2024-03-23;Barcelona;Chicago;1904;1.43;7135.84;5996.5;0.19;Air Export;Ryan Camacho
+371;LeachGroup;2023-07-22;Sydney;Barcelona;1940;2.28;5351.5;4213.78;0.27;Air Import;Tammy Houston
+372;AeroNext Engineering;2024-06-23;Sydney;Barcelona;1848;4.48;8519.07;6870.22;0.24;Import Sea;Phillip Greer
+373;Perry-Garcia;2024-07-06;Riyadh;Barcelona;2962;6.3;8449.24;7283.83;0.16;Import Sea;Joseph Jordan
+374;Bennett,VillegasandFowler;2023-05-07;Doha;Barcelona;224;6.66;3690.17;3100.98;0.19;Import Sea;Dustin Martinez
+375;HintonLLC;2023-10-12;Los Angeles;Barcelona;3682;4.59;6770.04;5689.11;0.19;Import Sea;Ryan Camacho
+376;Ascendia SteelworksMartin-Holden;2023-10-09;Casablanca;Barcelona;2470;4.27;6375.75;5743.92;0.11;Import Sea;Joseph Jordan
+377;Santiago,HarrisandLynch;2024-05-23;New York;Barcelona;3651;6.4;3211.16;2946.02;0.09;Air Import;Joseph Jordan
+378;HintonLLC;2024-03-22;New York;Barcelona;3780;3.96;2374.24;2239.85;0.06;Air Import;Ryan Camacho
+379;Walker,CruzandGarcia;2024-02-19;Sydney;Barcelona;3505;1.7;6267.62;5014.1;0.25;Air Import;Michael Scott DDS
+380;InfiniteCrest Engineering;2023-07-18;Muscat;Barcelona;3043;2.81;10879.9;8991.65;0.21;Air Import;Ryan Camacho
+381;NexaTech Manufacturing;2023-10-15;Tokyo;Barcelona;242;5.09;10318.82;8744.76;0.18;Air Import;Brady Wells
+382;Waters,ReynoldsandHoward;2024-02-11;Chicago;Barcelona;384;3.31;5257.13;4107.13;0.28;Air Import;Brady Wells
+383;Harris,CrawfordandScott;2023-10-24;Chicago;Barcelona;1661;5.21;1781.93;1414.23;0.26;Air Import;Ryan Camacho
+384;NexaTech Manufacturing;2023-11-06;Delhi;Barcelona;3316;5.66;7811.0;6912.39;0.13;Import Sea;Brady Wells
+385;Henderson,BoydandShelton;2024-06-15;Sydney;Barcelona;2109;5.35;6932.5;6028.26;0.15;Import Sea;Brady Wells
+386;Wells-Randall;2023-02-20;Tokyo;Barcelona;131;4.52;2255.12;1960.97;0.15;Air Import;Michael Scott DDS
+387;Mcdaniel,MooreandJackson;2023-10-21;Doha;Barcelona;192;2.48;6161.41;5705.01;0.08;Import Sea;Brenda Koch
+388;Klein,RobinsonandMiller;2024-06-03;Muscat;Barcelona;1908;6.32;7237.3;6239.05;0.16;Import Sea;Daniel Goodman
+389;NovaSphere Fabrication;2023-06-17;Shanghai;Barcelona;2949;6.63;3983.9;3376.19;0.18;Import Sea;Ryan Camacho
+390;Santiago,HarrisandLynch;2023-12-13;New York;Barcelona;1954;3.47;2548.95;1960.73;0.3;Air Import;Joseph Jordan
+391;RapidFlow Machining;2023-08-31;Barcelona;Doha;2138;6.45;10812.16;8317.05;0.3;Air Export;Ryan Camacho
+392;RapidFlow Machining;2024-02-25;Riyadh;Barcelona;321;4.18;9540.0;8752.29;0.09;Import Sea;Ryan Camacho
+393;MortonandSons;2024-07-09;Shanghai;Barcelona;320;4.91;9503.41;8561.63;0.11;Air Import;Brenda Koch
+394;Walker,CruzandGarcia;2023-05-29;Dubai;Barcelona;3129;2.68;10790.63;8917.88;0.21;Import Sea;Michael Scott DDS
+395;UrbanEdge Machinery;2023-07-06;Delhi;Barcelona;853;4.1;10432.39;8841.01;0.18;Import Sea;Phillip Greer
+396;NovaSphere Fabrication;2024-02-12;Buenos Aires;Barcelona;1168;3.54;9138.17;7877.73;0.16;Import Sea;Ryan Camacho
+397;InfiniteCrest Engineering;2024-03-15;New York;Barcelona;2873;1.32;6157.61;5597.83;0.1;Air Import;Ryan Camacho
+398;RapidFlow Machining;2023-07-17;Johanesburg;Barcelona;3588;2.8;10536.77;9083.42;0.16;Import Sea;Ryan Camacho
+399;RapidFlow Machining;2023-05-14;Johanesburg;Barcelona;1650;3.99;4834.17;3930.22;0.23;Import Sea;Ryan Camacho
+400;Bass-Bolton;2023-08-09;Tokyo;Barcelona;2268;6.43;10732.87;8944.06;0.2;Air Import;Brenda Koch
+401;Bass-Bolton;2023-02-17;Chicago;Barcelona;2753;4.16;1535.15;1358.54;0.13;Air Import;Brenda Koch
+402;Perry-Garcia;2023-02-26;Buenos Aires;Barcelona;163;5.86;5013.22;4685.25;0.07;Import Sea;Joseph Jordan
+403;Wells-Randall;2023-09-30;Buenos Aires;Barcelona;2938;2.55;6206.69;5259.91;0.18;Import Sea;Michael Scott DDS
+404;Waters,ReynoldsandHoward;2024-04-14;Riyadh;Barcelona;2571;2.31;8071.1;7404.68;0.09;Import Sea;Brady Wells
+405;Harris,CrawfordandScott;2023-01-18;Los Angeles;Barcelona;2934;5.42;2829.47;2669.31;0.06;Import Sea;Ryan Camacho
+406;BlueHorizon Steel;2023-12-26;Tokyo;Barcelona;3516;6.62;1598.67;1390.15;0.15;Air Import;Brenda Koch
+407;Nolan,MeyersandJohnson;2024-01-22;Chicago;Barcelona;3553;1.69;9994.86;8125.9;0.23;Import Sea;Ryan Camacho
+408;SummitRise Steelworks;2024-03-13;Sydney;Barcelona;3729;6.92;12612.11;9776.83;0.29;Air Import;Tammy Houston
+409;OmniTech Fabrication;2023-07-14;Riyadh;Barcelona;1536;2.92;2437.96;2031.63;0.2;Air Import;Patrick Barber
+410;VitalEdge Manufacturing;2024-01-09;Shanghai;Barcelona;3987;1.42;1819.11;1653.74;0.1;Import Sea;Joseph Jordan
+411;EcoVista Steelworks;2024-04-09;Doha;Barcelona;547;2.35;1936.04;1792.63;0.08;Air Import;Joseph Jordan
+412;AeroNext Engineering;2023-07-26;Casablanca;Barcelona;3510;2.06;8293.64;7275.12;0.14;Air Import;Phillip Greer
+413;PureWave Fabrication;2024-06-02;Buenos Aires;Barcelona;3781;3.99;7513.27;6367.18;0.18;Import Sea;Brady Wells
+414;Waters,ReynoldsandHoward;2023-02-15;Riyadh;Barcelona;3603;6.61;7875.76;6563.13;0.2;Air Import;Brady Wells
+415;Klein,RobinsonandMiller;2024-04-01;Tokyo;Barcelona;2584;2.93;730.19;657.83;0.11;Air Import;Daniel Goodman
+416;Chandler,TurnerandHouston;2023-11-01;Johanesburg;Barcelona;555;3.99;5893.03;5456.51;0.08;Import Sea;Ryan Camacho
+417;BlueHorizon Steel;2023-02-24;Tokyo;Barcelona;655;3.94;3408.43;2683.8;0.27;Air Import;Brenda Koch
+418;HintonLLC;2024-01-29;Chicago;Barcelona;1843;4.74;4116.33;3811.42;0.08;Air Import;Ryan Camacho
+419;ElliottLtd;2024-06-27;Johanesburg;Barcelona;1713;3.45;8710.05;7319.37;0.19;Import Sea;Brenda Koch
+420;StellarWave Manufacturing;2023-07-02;Los Angeles;Barcelona;1264;1.8;8244.22;6702.62;0.23;Air Import;Dustin Martinez
+421;StellarWave Manufacturing;2023-12-08;Barcelona;Delhi;2483;6.16;10907.83;9485.07;0.15;Export Sea;Dustin Martinez
+422;BlueHorizon Steel;2023-10-03;Chicago;Barcelona;1267;1.13;2409.68;2008.07;0.2;Air Import;Brenda Koch
+423;Chandler,TurnerandHouston;2023-05-21;Casablanca;Barcelona;2684;6.1;5239.88;4897.08;0.07;Air Import;Ryan Camacho
+424;Harris,CrawfordandScott;2023-11-09;New York;Barcelona;713;2.09;7365.32;6576.18;0.12;Air Import;Ryan Camacho
+425;MortonandSons;2024-01-03;Johanesburg;Barcelona;619;4.37;11387.13;8827.23;0.29;Air Import;Brenda Koch
+426;LeachGroup;2024-03-18;Muscat;Barcelona;3430;1.76;8926.79;7899.81;0.13;Air Import;Tammy Houston
+427;Williams,GouldandLewis;2023-11-17;Muscat;Barcelona;2910;2.36;8176.06;7570.43;0.08;Import Sea;Michael Scott DDS
+428;ShortLtd;2023-07-10;Delhi;Barcelona;110;1.94;3053.31;2702.04;0.13;Air Import;Michael Scott DDS
+429;OptiCore Fabrication;2023-03-17;Shanghai;Barcelona;2507;2.26;3687.21;3263.02;0.13;Air Import;Phillip Greer
+430;Santiago,HarrisandLynch;2023-10-18;New York;Barcelona;576;2.1;8263.29;6718.12;0.23;Import Sea;Joseph Jordan
+431;ElliottLtd;2024-01-01;Dubai;Barcelona;2031;6.08;9581.91;8955.06;0.07;Import Sea;Brenda Koch
+432;InfiniteCrest Engineering;2023-12-12;New York;Barcelona;2720;3.2;9543.08;8226.79;0.16;Air Import;Ryan Camacho
+433;Simmons-Turner;2023-05-07;Shanghai;Barcelona;1789;5.59;11713.84;9223.5;0.27;Air Import;Patrick Barber
+434;SkyHigh Engineering;2024-07-06;Casablanca;Barcelona;433;4.64;10978.53;8510.49;0.29;Import Sea;Tammy Houston
+435;UrbanEdge Machinery;2023-08-31;Los Angeles;Barcelona;1157;4.8;4095.05;3224.45;0.27;Import Sea;Phillip Greer
+436;Henderson,BoydandShelton;2024-02-05;Doha;Barcelona;2308;3.94;3350.35;2964.91;0.13;Air Import;Brady Wells
+437;QuantumForge Industries;2024-05-08;Dubai;Barcelona;3864;3.89;4030.91;3124.74;0.29;Air Import;Ryan Camacho
+438;MortonandSons;2024-05-28;Delhi;Barcelona;2998;1.41;2904.45;2269.1;0.28;Import Sea;Brenda Koch
+439;BrightMinds Machining;2023-01-16;Tokyo;Barcelona;2065;1.6;1757.04;1501.74;0.17;Import Sea;Ryan Camacho
+440;Walker,CruzandGarcia;2023-04-19;Riyadh;Barcelona;2188;4.53;6268.23;5498.45;0.14;Import Sea;Michael Scott DDS
+441;Martinez-Wilson;2023-10-12;Shanghai;Barcelona;3199;5.97;6174.8;5416.49;0.14;Import Sea;Dustin Martinez
+442;CrystalClear Machining;2023-02-15;Chicago;Barcelona;1308;1.83;8612.98;6676.73;0.29;Import Sea;Ryan Camacho
+443;Santiago,HarrisandLynch;2024-01-31;Dubai;Barcelona;3936;6.41;8010.57;6161.98;0.3;Air Import;Joseph Jordan
+444;Walker,CruzandGarcia;2023-11-15;New York;Barcelona;2645;5.33;1116.93;997.26;0.12;Import Sea;Michael Scott DDS
+445;Nolan,MeyersandJohnson;2023-01-31;Johanesburg;Barcelona;2230;2.33;4390.06;3540.37;0.24;Air Import;Ryan Camacho
+446;Nolan,MeyersandJohnson;2024-05-01;Tokyo;Barcelona;1210;1.61;2773.59;2370.59;0.17;Air Import;Ryan Camacho
+447;HorizonX Foundry;2024-06-19;Dubai;Barcelona;2033;5.73;5882.97;4632.26;0.27;Air Import;Patrick Barber
+448;SwiftStream Foundry;2023-10-08;Doha;Barcelona;3658;2.38;4978.99;4329.56;0.15;Import Sea;Daniel Goodman
+449;Perry-Garcia;2023-06-07;Casablanca;Barcelona;3230;1.4;7664.64;5988.0;0.28;Air Import;Joseph Jordan
+450;TerraVista Fabrication;2023-04-05;Muscat;Barcelona;2902;1.32;8194.98;7587.94;0.08;Air Import;Brenda Koch
+451;SmithLtd;2023-06-29;Riyadh;Barcelona;1117;2.34;8227.44;7154.3;0.15;Air Import;Ryan Camacho
+452;InfiniteCrest Engineering;2023-05-04;Tokyo;Barcelona;1961;1.45;3490.7;3293.11;0.06;Import Sea;Ryan Camacho
+453;PureWave Fabrication;2024-01-06;Los Angeles;Barcelona;3739;5.61;8566.94;7717.96;0.11;Air Import;Brady Wells
+454;MortonandSons;2023-09-18;Los Angeles;Barcelona;1599;5.62;4628.91;4408.49;0.05;Air Import;Brenda Koch
+455;TerraVista Fabrication;2024-05-27;Sydney;Barcelona;2920;6.67;4813.22;3789.94;0.27;Air Import;Brenda Koch
+456;QuantumForge Industries;2023-12-10;Los Angeles;Barcelona;3339;5.85;6079.3;5628.98;0.08;Import Sea;Ryan Camacho
+457;Martinez-Wilson;2024-05-29;Los Angeles;Barcelona;3651;5.37;3218.36;2798.57;0.15;Import Sea;Dustin Martinez
+458;Ward-Wilcox;2024-05-30;Tokyo;Barcelona;1400;1.92;10419.87;9559.51;0.09;Air Import;Michael Scott DDS
+459;Perry-Garcia;2024-04-04;Buenos Aires;Barcelona;732;6.59;1850.9;1682.64;0.1;Import Sea;Joseph Jordan
+460;GarciaGroup;2023-04-15;Barcelona;New York;3609;6.79;1689.52;1535.93;0.1;Export Sea;Daniel Goodman
+461;SmithLtd;2023-04-25;Shanghai;Barcelona;554;5.65;4126.34;3651.63;0.13;Import Sea;Ryan Camacho
+462;ShortLtd;2023-06-19;Chicago;Barcelona;882;3.12;3493.86;2911.55;0.2;Air Import;Michael Scott DDS
+463;Perry-Garcia;2023-09-04;Doha;Barcelona;1400;5.96;3785.81;3263.63;0.16;Import Sea;Joseph Jordan
+464;SwiftStream Foundry;2023-06-08;Muscat;Barcelona;2965;2.38;5150.6;4221.8;0.22;Import Sea;Daniel Goodman
+465;HintonLLC;2023-04-23;Muscat;Barcelona;3872;4.49;11689.63;9906.47;0.18;Import Sea;Ryan Camacho
+466;OptiCore Fabrication;2023-04-27;Casablanca;Barcelona;3400;5.61;1290.65;1084.58;0.19;Import Sea;Phillip Greer
+467;Klein,RobinsonandMiller;2024-04-15;Johanesburg;Barcelona;2069;3.19;1884.34;1728.75;0.09;Import Sea;Daniel Goodman
+468;PeakPerformance Engineering;2024-05-06;Casablanca;Barcelona;3335;6.81;9512.54;8130.38;0.17;Air Import;Ryan Camacho
+469;ApexFusion Works;2024-02-08;Buenos Aires;Barcelona;1890;1.57;3712.72;3200.62;0.16;Air Import;Joseph Jordan
+470;QuantumForge Industries;2023-09-04;Delhi;Barcelona;2008;1.03;4806.69;3939.91;0.22;Air Import;Ryan Camacho
+471;EcoVista Steelworks;2023-11-18;Johanesburg;Barcelona;1800;3.15;1764.32;1618.64;0.09;Air Import;Joseph Jordan
+472;InfiniteCrest Engineering;2023-12-15;Tokyo;Barcelona;2390;3.37;10879.13;9713.51;0.12;Air Import;Ryan Camacho
+473;HintonGroup;2023-04-27;Barcelona;New York;1262;6.91;3934.27;3512.74;0.12;Air Export;Ryan Camacho
+474;Ascendia SteelworksMartin-Holden;2023-09-15;Barcelona;Chicago;339;3.01;3502.86;3127.55;0.12;Air Export;Joseph Jordan
+475;OmniTech Fabrication;2024-05-16;Dubai;Barcelona;104;2.3;6969.83;5760.19;0.21;Import Sea;Patrick Barber
+476;Perry-Garcia;2023-04-22;Buenos Aires;Barcelona;721;2.77;1158.19;897.82;0.29;Import Sea;Joseph Jordan
+477;Harris,CrawfordandScott;2024-03-17;Doha;Barcelona;538;6.52;8924.21;7139.37;0.25;Air Import;Ryan Camacho
+478;ApexFusion Works;2023-06-30;Delhi;Barcelona;2687;3.86;1677.3;1524.82;0.1;Air Import;Joseph Jordan
+479;HintonGroup;2023-10-28;Riyadh;Barcelona;3223;5.57;4611.01;3874.8;0.19;Air Import;Ryan Camacho
+480;MortonandSons;2024-03-22;Johanesburg;Barcelona;1196;2.03;2125.01;1949.55;0.09;Air Import;Brenda Koch
+481;UrbanEdge Machinery;2024-03-07;Barcelona;Sydney;3980;6.72;1626.76;1452.46;0.12;Export Sea;Phillip Greer
+482;Klein,RobinsonandMiller;2023-07-31;Dubai;Barcelona;1620;1.14;3882.84;3106.27;0.25;Air Import;Daniel Goodman
+483;SkyHigh Engineering;2023-12-05;Riyadh;Barcelona;1512;2.31;10329.86;8070.2;0.28;Import Sea;Tammy Houston
+484;SwiftStream Foundry;2024-01-17;Shanghai;Barcelona;2233;3.07;10351.46;8923.67;0.16;Import Sea;Daniel Goodman
+485;BlueHorizon Steel;2024-05-23;Doha;Barcelona;241;4.26;1058.44;962.22;0.1;Air Import;Brenda Koch
+486;HorizonX Foundry;2024-07-05;Buenos Aires;Barcelona;1695;1.65;2391.78;2135.52;0.12;Import Sea;Patrick Barber
+487;Klein,RobinsonandMiller;2023-03-12;Tokyo;Barcelona;1207;1.86;8044.86;6760.39;0.19;Import Sea;Daniel Goodman
+488;Allen,WilliamsandWhite;2023-08-16;Los Angeles;Barcelona;1582;4.98;8711.15;7445.43;0.17;Air Import;Ryan Camacho
+489;SkyHigh Engineering;2024-03-29;Sydney;Barcelona;157;4.39;1631.72;1394.63;0.17;Import Sea;Tammy Houston
+490;OptiCore Fabrication;2024-03-13;Delhi;Barcelona;996;5.72;10731.02;9667.59;0.11;Import Sea;Phillip Greer
+491;VitalEdge Manufacturing;2024-05-13;Doha;Barcelona;3412;2.28;3721.81;3208.46;0.16;Air Import;Joseph Jordan
+492;UltraNet Foundry;2024-07-18;New York;Barcelona;2029;4.4;10972.44;8920.68;0.23;Air Import;Brenda Koch
+493;NexaTech Manufacturing;2023-02-15;Casablanca;Barcelona;2651;1.81;6215.36;5549.43;0.12;Air Import;Brady Wells
+494;Ward-Hays;2023-06-14;Chicago;Barcelona;1096;4.31;9081.73;8036.93;0.13;Air Import;Joseph Jordan
+495;HintonLLC;2023-06-10;Los Angeles;Barcelona;1645;1.25;10595.0;9133.62;0.16;Import Sea;Ryan Camacho
+496;Simmons-Turner;2023-10-04;Doha;Barcelona;3019;1.86;11853.02;9333.09;0.27;Import Sea;Patrick Barber
+497;GarciaGroup;2023-07-02;Dubai;Barcelona;2051;5.93;3142.59;2856.9;0.1;Import Sea;Daniel Goodman
+498;StellarWave Manufacturing;2023-05-17;Casablanca;Barcelona;2168;2.33;2005.01;1670.84;0.2;Air Import;Dustin Martinez
+499;Chandler,TurnerandHouston;2023-03-20;Riyadh;Barcelona;860;2.17;7787.53;6084.01;0.28;Air Import;Ryan Camacho
+500;PeakPerformance Engineering;2024-03-14;Muscat;Barcelona;3723;3.27;10549.14;9590.13;0.1;Import Sea;Ryan Camacho
+501;Wells-Randall;2023-06-01;Tokyo;Barcelona;958;6.11;6908.05;6007.0;0.15;Air Import;Michael Scott DDS
+502;LeachGroup;2024-07-23;Barcelona;Sydney;2946;6.21;6222.59;4938.56;0.26;Air Export;Tammy Houston
+503;HintonLLC;2023-09-11;Shanghai;Barcelona;1221;5.51;6243.75;5625.0;0.11;Import Sea;Ryan Camacho
+504;HintonGroup;2023-05-06;Delhi;Barcelona;3890;3.72;1383.53;1281.05;0.08;Import Sea;Ryan Camacho
+505;ApexFusion Works;2023-03-04;Los Angeles;Barcelona;3206;4.37;6122.98;4937.89;0.24;Air Import;Joseph Jordan
+506;Williams,GouldandLewis;2023-01-03;Casablanca;Barcelona;3051;3.73;1249.68;991.81;0.26;Air Import;Michael Scott DDS
+507;InfiniteCrest Engineering;2023-09-22;Tokyo;Barcelona;1405;2.29;6658.0;5161.24;0.29;Import Sea;Ryan Camacho
+508;BrightMinds Machining;2023-04-19;Dubai;Barcelona;828;6.84;3222.92;2929.93;0.1;Air Import;Ryan Camacho
+509;SkyHigh Engineering;2023-05-29;Los Angeles;Barcelona;3293;5.11;6068.13;5322.92;0.14;Import Sea;Tammy Houston
+510;Harris,CrawfordandScott;2024-01-25;Barcelona;Riyadh;3959;2.77;1925.67;1750.61;0.1;Air Export;Ryan Camacho
+511;ApexFusion Works;2023-01-09;Tokyo;Barcelona;852;6.46;2636.84;2215.83;0.19;Import Sea;Joseph Jordan
+512;Simmons-Turner;2023-05-13;Barcelona;Johanesburg;2330;6.78;6815.64;5978.63;0.14;Export Sea;Patrick Barber
+513;VitalEdge Manufacturing;2024-03-07;Johanesburg;Barcelona;3556;1.92;2481.23;2255.66;0.1;Air Import;Joseph Jordan
+514;UltraNet Foundry;2024-02-08;Muscat;Barcelona;1452;6.33;1027.65;893.61;0.15;Import Sea;Brenda Koch
+515;ShortLtd;2024-06-17;Doha;Barcelona;517;3.47;7723.21;6178.57;0.25;Air Import;Michael Scott DDS
+516;OmniTech Fabrication;2023-08-07;Riyadh;Barcelona;3494;3.4;1048.36;903.76;0.16;Air Import;Patrick Barber
+517;Waters,ReynoldsandHoward;2023-12-19;Sydney;Barcelona;1322;4.36;8853.31;6863.03;0.29;Air Import;Brady Wells
+518;Walker,CruzandGarcia;2023-03-15;Muscat;Barcelona;2295;2.44;5304.51;4457.57;0.19;Import Sea;Michael Scott DDS
+519;CarterGroup;2023-05-27;Riyadh;Barcelona;2068;1.74;6478.55;5101.22;0.27;Air Import;Michael Scott DDS
+520;Mcdaniel,MooreandJackson;2024-05-22;Buenos Aires;Barcelona;2839;2.78;3118.57;2914.55;0.07;Import Sea;Brenda Koch
+521;SwiftStream Foundry;2023-07-10;Dubai;Barcelona;1779;6.38;2818.97;2255.18;0.25;Import Sea;Daniel Goodman
+522;PrismPeak Manufacturing;2024-06-08;Dubai;Barcelona;177;2.88;3200.96;2991.55;0.07;Air Import;Tammy Houston
+523;HintonGroup;2024-02-13;New York;Barcelona;3815;1.71;909.46;727.57;0.25;Import Sea;Ryan Camacho
+524;Williams,GouldandLewis;2023-09-13;New York;Barcelona;2606;1.29;5074.48;3964.44;0.28;Import Sea;Michael Scott DDS
+525;SummitRise Steelworks;2023-09-12;Doha;Barcelona;2126;6.7;5531.41;4425.13;0.25;Air Import;Tammy Houston
+526;VitalEdge Manufacturing;2023-02-13;Los Angeles;Barcelona;1451;1.21;3690.47;3417.1;0.08;Air Import;Joseph Jordan
+527;PrismPeak Manufacturing;2023-06-21;Tokyo;Barcelona;3335;5.7;9845.14;8712.51;0.13;Air Import;Tammy Houston
+528;Simmons-Turner;2023-03-21;Tokyo;Barcelona;824;6.27;2665.46;2445.38;0.09;Air Import;Patrick Barber
+529;Stone,WestandBurns;2023-04-17;Dubai;Barcelona;2334;2.3;8995.12;7890.46;0.14;Import Sea;Phillip Greer
+530;UltraNet Foundry;2023-03-18;Doha;Barcelona;787;3.05;4388.29;3687.64;0.19;Import Sea;Brenda Koch
+531;Chandler,TurnerandHouston;2024-04-24;Dubai;Barcelona;3785;3.56;1460.22;1364.69;0.07;Import Sea;Ryan Camacho
+532;SwiftStream Foundry;2023-09-02;Sydney;Barcelona;1821;3.12;1678.34;1583.34;0.06;Air Import;Daniel Goodman
+533;Allen,WilliamsandWhite;2023-11-12;Buenos Aires;Barcelona;2104;1.12;3494.32;2864.2;0.22;Import Sea;Ryan Camacho
+534;GarciaGroup;2023-12-14;New York;Barcelona;1797;5.5;5576.72;4726.03;0.18;Import Sea;Daniel Goodman
+535;PureWave Fabrication;2024-01-23;Dubai;Barcelona;1988;5.37;11928.0;9466.67;0.26;Import Sea;Brady Wells
+536;Ward-Hays;2024-04-25;Barcelona;Doha;1130;1.92;2562.0;2001.56;0.28;Export Sea;Joseph Jordan
+537;Martinez-Wilson;2024-04-16;Sydney;Barcelona;1951;1.76;1344.29;1244.71;0.08;Import Sea;Dustin Martinez
+538;MortonandSons;2023-05-01;Barcelona;Doha;3318;6.15;10768.4;8347.6;0.29;Export Sea;Brenda Koch
+539;CrystalClear Machining;2024-05-03;Tokyo;Barcelona;3764;2.23;7116.19;6187.99;0.15;Air Import;Ryan Camacho
+540;GreenWave Manufacturing;2023-11-14;Delhi;Barcelona;2988;6.03;1081.01;973.88;0.11;Air Import;Joseph Jordan
+541;HintonGroup;2023-07-28;New York;Barcelona;2627;6.4;10987.67;9554.5;0.15;Air Import;Ryan Camacho
+542;BlueHorizon Steel;2024-06-26;Riyadh;Barcelona;1130;2.2;9313.06;7391.32;0.26;Import Sea;Brenda Koch
+543;Walker,CruzandGarcia;2023-12-22;Johanesburg;Barcelona;3717;3.15;3370.69;2740.4;0.23;Air Import;Michael Scott DDS
+544;SmithLtd;2023-05-04;Casablanca;Barcelona;1705;3.34;7974.61;6874.66;0.16;Air Import;Ryan Camacho
+545;PureWave Fabrication;2024-06-01;Dubai;Barcelona;529;3.28;3671.4;3059.5;0.2;Import Sea;Brady Wells
+546;TerraVista Fabrication;2024-03-31;Doha;Barcelona;3553;3.39;5520.22;4678.15;0.18;Import Sea;Brenda Koch
+547;EcoVista Steelworks;2023-02-26;Barcelona;Tokyo;3243;5.71;6245.58;4956.81;0.26;Export Sea;Joseph Jordan
+548;Ward-Hays;2023-09-19;Tokyo;Barcelona;2206;2.5;10729.88;8723.48;0.23;Air Import;Joseph Jordan
+549;InfiniteCrest Engineering;2023-06-16;Sydney;Barcelona;1732;1.06;7777.29;6323.0;0.23;Air Import;Ryan Camacho
+550;Mcdaniel,MooreandJackson;2023-01-07;Sydney;Barcelona;233;3.04;6591.73;5586.21;0.18;Import Sea;Brenda Koch
+551;VitalEdge Manufacturing;2023-07-20;Chicago;Barcelona;969;1.46;11168.34;9230.03;0.21;Air Import;Joseph Jordan
+552;HorizonX Foundry;2024-07-18;Buenos Aires;Barcelona;1627;6.86;6817.77;5542.9;0.23;Air Import;Patrick Barber
+553;SolarFlare Fabrication;2023-03-12;Muscat;Barcelona;646;2.06;6260.8;5491.93;0.14;Import Sea;Michael Scott DDS
+554;CarterGroup;2023-08-02;Doha;Barcelona;2336;3.68;3132.46;2486.08;0.26;Import Sea;Michael Scott DDS
+555;LeachGroup;2023-05-15;Riyadh;Barcelona;2277;5.19;10688.3;9896.57;0.08;Air Import;Tammy Houston
+556;CarterGroup;2023-08-26;Los Angeles;Barcelona;2175;5.97;6692.11;5671.28;0.18;Import Sea;Michael Scott DDS
+557;Ward-Wilcox;2024-07-09;Casablanca;Barcelona;792;1.55;5997.17;5039.64;0.19;Import Sea;Michael Scott DDS
+558;GarciaGroup;2024-03-29;Tokyo;Barcelona;2251;2.32;3572.89;3080.08;0.16;Import Sea;Daniel Goodman
+559;Klein,RobinsonandMiller;2024-02-15;Doha;Barcelona;596;2.39;1834.27;1541.4;0.19;Import Sea;Daniel Goodman
+560;HintonGroup;2023-07-03;Doha;Barcelona;2560;3.79;1991.45;1827.02;0.09;Air Import;Ryan Camacho
+561;SmithLtd;2023-09-27;New York;Barcelona;3459;3.25;2448.3;2128.96;0.15;Air Import;Ryan Camacho
+562;Allen,WilliamsandWhite;2023-10-31;Johanesburg;Barcelona;3003;4.61;4080.35;3813.41;0.07;Air Import;Ryan Camacho
+563;HintonLLC;2024-04-03;Muscat;Barcelona;3449;2.68;6653.02;6336.21;0.05;Import Sea;Ryan Camacho
+564;Chandler,TurnerandHouston;2023-03-07;Tokyo;Barcelona;2113;4.97;6669.61;5210.63;0.28;Air Import;Ryan Camacho
+565;Bennett,VillegasandFowler;2023-11-02;Sydney;Barcelona;441;3.88;2764.63;2536.36;0.09;Air Import;Dustin Martinez
+566;Ward-Wilcox;2023-02-16;New York;Barcelona;2315;4.87;3114.16;2780.5;0.12;Import Sea;Michael Scott DDS
+567;CrystalClear Machining;2023-10-24;Shanghai;Barcelona;2169;2.05;1082.77;902.31;0.2;Air Import;Ryan Camacho
+568;EcoVista Steelworks;2023-04-22;Shanghai;Barcelona;2575;5.96;2057.85;1821.11;0.13;Air Import;Joseph Jordan
+569;QuantumEcho Foundry;2023-03-24;Dubai;Barcelona;881;5.36;1790.04;1584.11;0.13;Import Sea;Brenda Koch
+570;Harris,CrawfordandScott;2023-09-20;New York;Barcelona;1976;4.51;1214.96;1065.75;0.14;Import Sea;Ryan Camacho
+571;QuantumForge Industries;2024-06-09;Muscat;Barcelona;2825;6.4;5909.73;4616.98;0.28;Import Sea;Ryan Camacho
+572;RapidFlow Machining;2024-06-05;Riyadh;Barcelona;575;2.85;10123.87;9203.52;0.1;Import Sea;Ryan Camacho
+573;CrystalClear Machining;2023-04-04;Delhi;Barcelona;3959;6.56;4613.52;3604.31;0.28;Air Import;Ryan Camacho
+574;Mcdaniel,MooreandJackson;2023-05-24;Muscat;Barcelona;216;4.9;8969.48;7062.58;0.27;Import Sea;Brenda Koch
+575;NovaSphere Fabrication;2024-02-27;Dubai;Barcelona;3101;6.68;6575.1;5619.74;0.17;Import Sea;Ryan Camacho
+576;SummitRise Steelworks;2023-05-11;Chicago;Barcelona;2796;5.46;7213.14;6804.85;0.06;Air Import;Tammy Houston
+577;Walker,CruzandGarcia;2024-02-23;Riyadh;Barcelona;106;5.48;12175.06;9979.56;0.22;Air Import;Michael Scott DDS
+578;QuantumEcho Foundry;2024-05-24;New York;Barcelona;3771;1.97;11602.21;9064.23;0.28;Air Import;Brenda Koch
+579;MortonandSons;2023-04-22;New York;Barcelona;470;1.42;3591.58;3206.77;0.12;Air Import;Brenda Koch
+580;Harris,CrawfordandScott;2023-07-16;Buenos Aires;Barcelona;2516;5.48;9552.98;9098.08;0.05;Air Import;Ryan Camacho
+581;ApexFusion Works;2024-07-18;Shanghai;Barcelona;2250;4.29;6281.21;5870.29;0.07;Air Import;Joseph Jordan
+582;UltraNet Foundry;2024-05-27;Casablanca;Barcelona;2942;5.38;7492.19;5946.18;0.26;Import Sea;Brenda Koch
+583;Ward-Hays;2023-06-19;Chicago;Barcelona;202;3.9;2667.43;2260.53;0.18;Import Sea;Joseph Jordan
+584;UrbanEdge Machinery;2023-02-16;Delhi;Barcelona;2874;2.91;10891.22;9388.98;0.16;Import Sea;Phillip Greer
+585;Ward-Hays;2023-09-22;Buenos Aires;Barcelona;1645;1.52;1524.96;1326.05;0.15;Air Import;Joseph Jordan
+586;HintonLLC;2023-06-14;Los Angeles;Barcelona;1280;4.06;2578.63;2409.93;0.07;Import Sea;Ryan Camacho
+587;GarciaGroup;2023-08-04;Tokyo;Barcelona;3496;5.01;3769.24;3015.39;0.25;Import Sea;Daniel Goodman
+588;ZenithWorks Industries;2023-01-24;Delhi;Barcelona;806;2.22;2334.06;2141.34;0.09;Import Sea;Patrick Barber
+589;UltraNet Foundry;2023-04-09;Tokyo;Barcelona;2238;1.03;9020.86;7159.41;0.26;Import Sea;Brenda Koch
+590;HintonLLC;2023-02-08;Doha;Barcelona;1762;6.37;7553.1;6347.14;0.19;Air Import;Ryan Camacho
+591;LeachGroup;2024-04-30;Sydney;Barcelona;3015;4.16;1154.4;938.54;0.23;Air Import;Tammy Houston
+592;HintonGroup;2024-04-02;Chicago;Barcelona;560;5.43;1626.16;1311.42;0.24;Import Sea;Ryan Camacho
+593;NovaSphere Fabrication;2023-01-09;Shanghai;Barcelona;3232;4.88;4109.33;3368.3;0.22;Air Import;Ryan Camacho
+594;PrismPeak Manufacturing;2023-11-02;Johanesburg;Barcelona;1129;6.45;5425.58;4844.27;0.12;Import Sea;Tammy Houston
+595;InfiniteCrest Engineering;2023-02-04;Tokyo;Barcelona;2684;3.1;7970.95;6376.76;0.25;Import Sea;Ryan Camacho
+596;RapidFlow Machining;2023-01-27;Muscat;Barcelona;2646;3.41;2578.72;1983.63;0.3;Import Sea;Ryan Camacho
+597;UltraNet Foundry;2023-01-22;Tokyo;Barcelona;1473;2.02;11682.85;9900.72;0.18;Air Import;Brenda Koch
+598;Simmons-Turner;2024-06-12;Tokyo;Barcelona;1560;6.19;7053.8;5510.78;0.28;Air Import;Patrick Barber
+599;VitalEdge Manufacturing;2023-02-18;Dubai;Barcelona;3679;3.17;5204.07;4688.35;0.11;Import Sea;Joseph Jordan
+600;NexaTech Manufacturing;2024-03-07;Tokyo;Barcelona;2873;2.46;10397.15;8452.97;0.23;Import Sea;Brady Wells
+601;Klein,RobinsonandMiller;2023-02-27;Delhi;Barcelona;3159;6.61;5748.71;4673.75;0.23;Air Import;Daniel Goodman
+602;Wells-Randall;2024-05-15;Delhi;Barcelona;146;1.51;1503.5;1174.61;0.28;Air Import;Michael Scott DDS
+603;PrismPeak Manufacturing;2023-01-30;Delhi;Barcelona;1464;2.99;11009.49;9098.75;0.21;Import Sea;Tammy Houston
+604;UltraNet Foundry;2024-04-07;Doha;Barcelona;507;5.69;8810.56;7937.44;0.11;Air Import;Brenda Koch
+605;Ascendia SteelworksMartin-Holden;2024-02-24;Johanesburg;Barcelona;1628;2.26;6354.93;5208.96;0.22;Air Import;Joseph Jordan
+606;StellarWave Manufacturing;2023-07-25;Sydney;Barcelona;2132;2.93;4752.0;4525.71;0.05;Air Import;Dustin Martinez
+607;Ascendia SteelworksMartin-Holden;2023-02-18;Casablanca;Barcelona;1790;5.28;2303.24;2074.99;0.11;Air Import;Joseph Jordan
+608;Nolan,MeyersandJohnson;2023-02-16;Johanesburg;Barcelona;2796;4.25;1191.73;1103.45;0.08;Air Import;Ryan Camacho
+609;Bennett,VillegasandFowler;2023-11-20;Tokyo;Barcelona;2188;4.18;10653.37;9684.88;0.1;Air Import;Dustin Martinez
+610;Harris,CrawfordandScott;2023-10-07;Shanghai;Barcelona;3843;4.56;4965.3;4280.43;0.16;Import Sea;Ryan Camacho
+611;NovaSphere Fabrication;2023-11-04;Delhi;Barcelona;1621;2.45;8418.47;7015.39;0.2;Air Import;Ryan Camacho
+612;SolarFlare Fabrication;2023-01-09;Casablanca;Barcelona;802;2.58;9389.65;8942.52;0.05;Import Sea;Michael Scott DDS
+613;Nolan,MeyersandJohnson;2024-06-20;New York;Barcelona;1805;4.75;8577.49;6649.22;0.29;Air Import;Ryan Camacho
+614;CrystalClear Machining;2023-04-05;Riyadh;Barcelona;2987;1.48;10452.51;9250.01;0.13;Import Sea;Ryan Camacho
+615;SmithLtd;2023-02-01;Casablanca;Barcelona;3289;3.96;7465.26;6380.56;0.17;Import Sea;Ryan Camacho
+616;QuantumEcho Foundry;2023-07-10;Chicago;Barcelona;3102;3.56;4531.95;3625.56;0.25;Air Import;Brenda Koch
+617;Simmons-Turner;2023-07-03;Sydney;Barcelona;1182;3.41;6269.72;5914.83;0.06;Air Import;Patrick Barber
+618;OptiCore Fabrication;2023-06-11;Barcelona;Muscat;3611;5.33;11268.28;9469.14;0.19;Air Export;Phillip Greer
+619;SolarFlare Fabrication;2023-08-01;Dubai;Barcelona;1777;6.02;3945.76;3619.96;0.09;Import Sea;Michael Scott DDS
+620;SmithLtd;2024-04-26;Los Angeles;Barcelona;698;6.11;5150.59;4364.91;0.18;Air Import;Ryan Camacho
+621;Klein,RobinsonandMiller;2024-01-20;Sydney;Barcelona;468;3.35;9200.35;8518.84;0.08;Import Sea;Daniel Goodman
+622;InfiniteCrest Engineering;2023-09-16;Barcelona;Buenos Aires;2187;5.33;4400.76;3549.0;0.24;Air Export;Ryan Camacho
+623;Simmons-Turner;2024-01-17;New York;Barcelona;2669;3.61;1898.91;1595.72;0.19;Air Import;Patrick Barber
+624;Allen,WilliamsandWhite;2023-06-25;Muscat;Barcelona;3271;4.44;4050.8;3375.67;0.2;Import Sea;Ryan Camacho
+625;OmniTech Fabrication;2024-02-07;Barcelona;Los Angeles;811;5.6;3301.58;2706.21;0.22;Export Sea;Patrick Barber
+626;Wells-Randall;2024-05-22;Barcelona;Buenos Aires;415;5.36;2611.37;2463.56;0.06;Air Export;Michael Scott DDS
+627;Wells-Randall;2023-05-11;New York;Barcelona;2809;4.33;2746.82;2145.95;0.28;Air Import;Michael Scott DDS
+628;HorizonX Foundry;2024-01-30;Buenos Aires;Barcelona;3381;1.53;5886.04;5030.8;0.17;Import Sea;Patrick Barber
+629;Santiago,HarrisandLynch;2023-09-04;Sydney;Barcelona;103;6.7;9914.33;7745.57;0.28;Import Sea;Joseph Jordan
+630;Klein,RobinsonandMiller;2024-01-14;Delhi;Barcelona;3215;5.36;10110.93;8220.27;0.23;Air Import;Daniel Goodman
+631;Chandler,TurnerandHouston;2024-03-29;Tokyo;Barcelona;2744;1.87;4693.92;4386.84;0.07;Air Import;Ryan Camacho
+632;Simmons-Turner;2024-01-14;Johanesburg;Barcelona;431;4.86;9903.12;8184.4;0.21;Air Import;Patrick Barber
+633;Stone,WestandBurns;2024-02-26;Sydney;Barcelona;978;6.22;3560.74;2803.73;0.27;Import Sea;Phillip Greer
+634;HintonGroup;2024-07-09;New York;Barcelona;1190;2.19;3633.78;3132.57;0.16;Import Sea;Ryan Camacho
+635;HorizonX Foundry;2023-02-02;Doha;Barcelona;1600;6.52;2914.91;2602.6;0.12;Import Sea;Patrick Barber
+636;ZenithWorks Industries;2023-04-04;Muscat;Barcelona;3274;1.77;9519.38;7676.92;0.24;Import Sea;Patrick Barber
+637;NovaSphere Fabrication;2023-03-15;Barcelona;Dubai;938;2.87;772.57;608.32;0.27;Air Export;Ryan Camacho
+638;UrbanEdge Machinery;2023-11-04;Delhi;Barcelona;1380;3.82;10936.69;8891.62;0.23;Import Sea;Phillip Greer
+639;Williams,GouldandLewis;2023-05-19;Dubai;Barcelona;2973;6.97;1446.62;1139.07;0.27;Import Sea;Michael Scott DDS
+640;Santiago,HarrisandLynch;2024-01-31;Casablanca;Barcelona;1883;1.98;9238.59;7161.7;0.29;Air Import;Joseph Jordan
+641;OptiCore Fabrication;2023-01-26;Shanghai;Barcelona;170;1.35;3310.39;2586.24;0.28;Air Import;Phillip Greer
+642;CarterGroup;2023-11-24;Casablanca;Barcelona;241;1.4;6232.05;5066.71;0.23;Air Import;Michael Scott DDS
+643;GreenWave Manufacturing;2024-01-21;New York;Barcelona;1246;2.97;8652.23;7210.19;0.2;Import Sea;Joseph Jordan
+644;Ascendia SteelworksMartin-Holden;2024-03-05;Muscat;Barcelona;1662;3.66;5606.24;5143.34;0.09;Air Import;Joseph Jordan
+645;ElliottLtd;2024-04-13;Delhi;Barcelona;2355;3.61;5889.93;5121.68;0.15;Air Import;Brenda Koch
+646;Wells-Randall;2024-03-23;New York;Barcelona;3298;6.16;1654.93;1504.48;0.1;Import Sea;Michael Scott DDS
+647;Ward-Wilcox;2023-02-22;Shanghai;Barcelona;3245;3.36;708.29;643.9;0.1;Air Import;Michael Scott DDS
+648;Martinez-Wilson;2023-11-16;Riyadh;Barcelona;2583;1.25;6678.27;6241.37;0.07;Air Import;Dustin Martinez
+649;SmithLtd;2024-02-21;Los Angeles;Barcelona;794;1.39;5005.53;4509.49;0.11;Import Sea;Ryan Camacho
+650;ElliottLtd;2023-01-19;Dubai;Barcelona;2549;2.84;1758.38;1569.98;0.12;Air Import;Brenda Koch
+651;QuantumEcho Foundry;2024-04-13;New York;Barcelona;3284;3.17;1609.92;1352.87;0.19;Import Sea;Brenda Koch
+652;SummitRise Steelworks;2023-09-13;Dubai;Barcelona;3943;5.43;2903.14;2639.22;0.1;Air Import;Tammy Houston
+653;SmithLtd;2024-06-23;Barcelona;Delhi;2599;4.74;4189.63;3434.12;0.22;Export Sea;Ryan Camacho
+654;UltraNet Foundry;2023-08-14;New York;Barcelona;795;2.49;1675.64;1384.83;0.21;Air Import;Brenda Koch
+655;QuantumEcho Foundry;2024-03-01;Sydney;Barcelona;3580;2.02;5773.67;5498.73;0.05;Import Sea;Brenda Koch
+656;Waters,ReynoldsandHoward;2023-01-02;Johanesburg;Barcelona;289;4.89;6591.89;5885.62;0.12;Import Sea;Brady Wells
+657;AeroNext Engineering;2024-05-18;Casablanca;Barcelona;3057;1.93;7259.09;5999.25;0.21;Air Import;Phillip Greer
+658;PureWave Fabrication;2023-08-08;Dubai;Barcelona;207;6.24;2920.56;2393.9;0.22;Air Import;Brady Wells
+659;SkyHigh Engineering;2023-01-13;Sydney;Barcelona;3044;4.99;3591.87;3325.81;0.08;Import Sea;Tammy Houston
+660;Waters,ReynoldsandHoward;2023-10-07;Shanghai;Barcelona;2664;5.89;3355.15;2892.37;0.16;Air Import;Brady Wells
+661;SwiftStream Foundry;2024-02-05;Doha;Barcelona;2068;1.4;7256.29;5996.93;0.21;Import Sea;Daniel Goodman
+662;Williams,GouldandLewis;2024-04-01;Tokyo;Barcelona;1710;6.6;12188.3;9673.25;0.26;Air Import;Michael Scott DDS
+663;SolarFlare Fabrication;2023-09-01;Johanesburg;Barcelona;2749;4.34;5009.54;4513.1;0.11;Import Sea;Michael Scott DDS
+664;Henderson,BoydandShelton;2024-05-10;Shanghai;Barcelona;3707;2.37;4907.15;4629.39;0.06;Import Sea;Brady Wells
+665;Wells-Randall;2023-10-30;Tokyo;Barcelona;3157;5.25;8589.08;8102.91;0.06;Import Sea;Michael Scott DDS
+666;PureWave Fabrication;2024-03-08;Barcelona;Los Angeles;491;3.29;7317.33;5949.05;0.23;Export Sea;Brady Wells
+667;Perry-Garcia;2023-07-26;Los Angeles;Barcelona;3406;3.1;5855.53;4647.25;0.26;Air Import;Joseph Jordan
+668;ZenithWorks Industries;2023-10-13;Chicago;Barcelona;3346;4.15;11027.95;9425.6;0.17;Air Import;Patrick Barber
+669;SwiftStream Foundry;2024-01-13;Doha;Barcelona;1532;3.43;7681.97;6679.97;0.15;Air Import;Daniel Goodman
+670;PrismPeak Manufacturing;2023-03-13;Chicago;Barcelona;2046;1.43;1216.6;1096.04;0.11;Air Import;Tammy Houston
+671;Bass-Bolton;2023-08-02;Chicago;Barcelona;3224;5.32;7107.83;6075.07;0.17;Import Sea;Brenda Koch
+672;VitalEdge Manufacturing;2024-05-02;New York;Barcelona;1309;2.21;4232.61;3919.08;0.08;Import Sea;Joseph Jordan
+673;Ward-Hays;2023-03-17;Johanesburg;Barcelona;2620;2.87;1038.05;926.83;0.12;Import Sea;Joseph Jordan
+674;Santiago,HarrisandLynch;2023-11-16;Los Angeles;Barcelona;943;5.93;10884.96;8638.86;0.26;Air Import;Joseph Jordan
+675;NexaTech Manufacturing;2024-05-25;Johanesburg;Barcelona;1096;5.93;5565.99;5250.93;0.06;Air Import;Brady Wells
+676;Mcdaniel,MooreandJackson;2023-07-16;Johanesburg;Barcelona;161;6.68;867.25;803.01;0.08;Import Sea;Brenda Koch
+677;Wells-Randall;2023-08-03;Tokyo;Barcelona;1583;3.17;5328.57;4800.51;0.11;Import Sea;Michael Scott DDS
+678;EcoVista Steelworks;2023-04-30;Buenos Aires;Barcelona;769;6.7;7537.5;6334.03;0.19;Air Import;Joseph Jordan
+679;NexaTech Manufacturing;2023-08-30;Dubai;Barcelona;915;5.24;830.58;659.19;0.26;Import Sea;Brady Wells
+680;GreenWave Manufacturing;2023-08-19;Los Angeles;Barcelona;3260;3.75;10024.5;8641.81;0.16;Import Sea;Joseph Jordan
+681;Walker,CruzandGarcia;2023-09-20;Delhi;Barcelona;942;5.95;9495.94;8116.19;0.17;Import Sea;Michael Scott DDS
+682;CrystalClear Machining;2024-07-10;Doha;Barcelona;1795;1.02;6409.15;6046.37;0.06;Air Import;Ryan Camacho
+683;ApexFusion Works;2023-08-10;Tokyo;Barcelona;2313;3.62;906.99;749.58;0.21;Air Import;Joseph Jordan
+684;Simmons-Turner;2023-02-24;Sydney;Barcelona;851;6.06;5585.49;5319.51;0.05;Air Import;Patrick Barber
+685;PureWave Fabrication;2023-04-01;Johanesburg;Barcelona;2547;2.64;10214.32;7857.17;0.3;Import Sea;Brady Wells
+686;OmniTech Fabrication;2023-06-17;Dubai;Barcelona;1270;6.56;8032.13;6865.07;0.17;Air Import;Patrick Barber
+687;SolarFlare Fabrication;2023-10-27;Buenos Aires;Barcelona;1136;3.95;11228.66;9849.7;0.14;Air Import;Michael Scott DDS
+688;Ward-Wilcox;2024-04-03;Shanghai;Barcelona;3367;5.36;7019.33;6685.08;0.05;Import Sea;Michael Scott DDS
+689;CrystalClear Machining;2023-09-29;Tokyo;Barcelona;278;4.71;895.18;688.6;0.3;Import Sea;Ryan Camacho
+690;ZenithWorks Industries;2023-12-10;Buenos Aires;Barcelona;359;1.69;11438.07;8866.72;0.29;Import Sea;Patrick Barber
+691;QuantumForge Industries;2024-03-11;Shanghai;Barcelona;242;4.66;2607.64;2437.05;0.07;Import Sea;Ryan Camacho
+692;PureWave Fabrication;2023-01-16;Tokyo;Barcelona;803;1.32;3922.04;3381.07;0.16;Air Import;Brady Wells
+693;Williams,GouldandLewis;2023-12-08;Doha;Barcelona;1499;2.8;10125.54;8100.43;0.25;Air Import;Michael Scott DDS
+694;OptiCore Fabrication;2023-04-26;Shanghai;Barcelona;422;3.72;6591.48;5190.14;0.27;Air Import;Phillip Greer
+695;SmithLtd;2024-05-07;Johanesburg;Barcelona;522;6.85;10680.6;8613.39;0.24;Air Import;Ryan Camacho
+696;PrismPeak Manufacturing;2024-01-15;Johanesburg;Barcelona;3460;6.45;5561.22;4634.35;0.2;Air Import;Tammy Houston
+697;SkyHigh Engineering;2024-02-01;Dubai;Barcelona;3278;2.35;9190.67;8355.15;0.1;Import Sea;Tammy Houston
+698;RapidFlow Machining;2023-09-14;Chicago;Barcelona;248;2.61;7976.28;7185.84;0.11;Air Import;Ryan Camacho
+699;ZenithWorks Industries;2023-05-14;Shanghai;Barcelona;3122;5.91;3478.65;3191.42;0.09;Import Sea;Patrick Barber
+700;BrightMinds Machining;2023-05-31;Riyadh;Barcelona;3055;2.74;1483.74;1168.3;0.27;Air Import;Ryan Camacho
+701;RapidFlow Machining;2023-06-26;Sydney;Barcelona;3627;1.19;6494.9;5697.28;0.14;Air Import;Ryan Camacho
+702;SolarFlare Fabrication;2023-10-19;Delhi;Barcelona;984;1.53;6357.03;5253.74;0.21;Import Sea;Michael Scott DDS
+703;Ascendia SteelworksMartin-Holden;2023-10-26;New York;Barcelona;2359;5.62;6280.87;5414.54;0.16;Air Import;Joseph Jordan
+704;Harris,CrawfordandScott;2023-07-10;Buenos Aires;Barcelona;3326;2.39;4306.64;4024.9;0.07;Air Import;Ryan Camacho
+705;Simmons-Turner;2024-01-16;Muscat;Barcelona;1384;2.85;5228.98;4251.2;0.23;Air Import;Patrick Barber
+706;Walker,CruzandGarcia;2024-03-22;Los Angeles;Barcelona;1473;4.99;5519.24;5063.52;0.09;Import Sea;Michael Scott DDS
+707;QuantumForge Industries;2024-03-04;Tokyo;Barcelona;3655;3.2;9992.15;9251.99;0.08;Import Sea;Ryan Camacho
+708;Santiago,HarrisandLynch;2023-10-04;Buenos Aires;Barcelona;1981;6.79;9170.81;7278.42;0.26;Air Import;Joseph Jordan
+709;BrightMinds Machining;2023-04-26;Muscat;Barcelona;1363;1.84;10019.25;9191.97;0.09;Import Sea;Ryan Camacho
+710;ElliottLtd;2023-05-25;Dubai;Barcelona;364;5.79;8144.81;6844.38;0.19;Air Import;Brenda Koch
+711;Allen,WilliamsandWhite;2023-06-17;Shanghai;Barcelona;2786;5.01;6572.84;5135.03;0.28;Import Sea;Ryan Camacho
+712;Santiago,HarrisandLynch;2024-06-28;Barcelona;Delhi;2076;4.05;4401.26;3761.76;0.17;Air Export;Joseph Jordan
+713;PeakPerformance Engineering;2023-07-03;Tokyo;Barcelona;957;3.61;967.12;903.85;0.07;Air Import;Ryan Camacho
+714;UltraNet Foundry;2024-07-18;New York;Barcelona;118;2.82;9145.06;8467.65;0.08;Air Import;Brenda Koch
+715;ElliottLtd;2023-05-26;Doha;Barcelona;3755;6.52;10320.14;8820.63;0.17;Import Sea;Brenda Koch
+716;Martinez-Wilson;2024-05-11;Tokyo;Barcelona;2050;5.01;10475.8;9976.95;0.05;Air Import;Dustin Martinez
+717;Nolan,MeyersandJohnson;2024-03-09;New York;Barcelona;3157;4.78;6924.81;5539.85;0.25;Air Import;Ryan Camacho
+718;Mcdaniel,MooreandJackson;2023-10-07;Casablanca;Barcelona;2425;4.02;2564.88;1988.28;0.29;Air Import;Brenda Koch
+719;Allen,WilliamsandWhite;2024-01-07;Casablanca;Barcelona;2696;1.98;8600.62;6935.98;0.24;Import Sea;Ryan Camacho
+720;SummitRise Steelworks;2023-01-12;Casablanca;Barcelona;1173;2.4;7900.03;6422.79;0.23;Air Import;Tammy Houston
+721;Mcdaniel,MooreandJackson;2024-01-23;Barcelona;Sydney;2811;1.91;2227.08;1713.14;0.3;Air Export;Brenda Koch
+722;LeachGroup;2024-04-21;Dubai;Barcelona;653;6.61;4411.18;3938.55;0.12;Import Sea;Tammy Houston
+723;LeachGroup;2024-03-27;Dubai;Barcelona;3405;4.37;6823.05;5933.09;0.15;Import Sea;Tammy Houston
+724;MortonandSons;2023-05-11;Buenos Aires;Barcelona;277;2.18;2511.38;2391.79;0.05;Air Import;Brenda Koch
+725;HintonLLC;2023-01-31;Chicago;Barcelona;3018;4.16;11466.2;9100.16;0.26;Air Import;Ryan Camacho
+726;Harris,CrawfordandScott;2024-06-11;New York;Barcelona;3517;2.17;4738.81;3884.27;0.22;Air Import;Ryan Camacho
+727;Allen,WilliamsandWhite;2023-01-27;New York;Barcelona;916;1.29;7557.49;5904.29;0.28;Air Import;Ryan Camacho
+728;Santiago,HarrisandLynch;2024-03-15;Chicago;Barcelona;947;3.02;5181.37;4667.9;0.11;Import Sea;Joseph Jordan
+729;Wells-Randall;2024-03-11;Casablanca;Barcelona;116;2.35;5542.53;4819.59;0.15;Air Import;Michael Scott DDS
+730;HintonLLC;2023-08-26;Casablanca;Barcelona;1202;3.53;1478.35;1274.44;0.16;Air Import;Ryan Camacho
+731;GreenWave Manufacturing;2023-09-14;Casablanca;Barcelona;1147;3.89;9102.51;7649.17;0.19;Air Import;Joseph Jordan
+732;Allen,WilliamsandWhite;2024-06-23;Buenos Aires;Barcelona;709;4.76;11558.5;9246.8;0.25;Import Sea;Ryan Camacho
+733;Chandler,TurnerandHouston;2023-04-10;Casablanca;Barcelona;1733;5.53;3129.37;2769.35;0.13;Air Import;Ryan Camacho
+734;CrystalClear Machining;2023-10-05;Casablanca;Barcelona;2150;5.34;5194.04;4477.62;0.16;Import Sea;Ryan Camacho
+735;ElliottLtd;2024-07-24;Riyadh;Barcelona;877;3.79;3449.05;2759.24;0.25;Air Import;Brenda Koch
+736;ApexFusion Works;2024-05-29;Buenos Aires;Barcelona;1582;2.2;4058.2;3220.79;0.26;Import Sea;Joseph Jordan
+737;SummitRise Steelworks;2023-03-02;Sydney;Barcelona;1364;2.32;7210.9;6739.16;0.07;Air Import;Tammy Houston
+738;StellarWave Manufacturing;2024-05-29;New York;Barcelona;260;6.04;9528.0;8431.86;0.13;Air Import;Dustin Martinez
+739;UltraNet Foundry;2023-11-22;New York;Barcelona;329;6.44;4484.46;4040.05;0.11;Air Import;Brenda Koch
+740;NovaSphere Fabrication;2023-06-01;Casablanca;Barcelona;1903;6.83;7179.58;6353.61;0.13;Air Import;Ryan Camacho
+741;LeachGroup;2023-08-11;Sydney;Barcelona;1145;3.87;12567.31;9895.52;0.27;Air Import;Tammy Houston
+742;SmithLtd;2024-05-31;Sydney;Barcelona;3874;2.81;8667.23;7471.75;0.16;Air Import;Ryan Camacho
+743;GreenWave Manufacturing;2023-03-17;Delhi;Barcelona;3586;3.56;7468.28;6609.1;0.13;Import Sea;Joseph Jordan
+744;Perry-Garcia;2023-10-14;Riyadh;Barcelona;873;6.06;3245.59;2535.62;0.28;Air Import;Joseph Jordan
+745;Allen,WilliamsandWhite;2023-12-10;Casablanca;Barcelona;1830;5.09;2311.45;2027.59;0.14;Import Sea;Ryan Camacho
+746;Martinez-Wilson;2023-02-08;Johanesburg;Barcelona;940;1.24;4960.79;4099.83;0.21;Import Sea;Dustin Martinez
+747;Bennett,VillegasandFowler;2023-12-05;Buenos Aires;Barcelona;1053;5.2;11636.42;9090.95;0.28;Import Sea;Dustin Martinez
+748;Bass-Bolton;2023-10-11;Doha;Barcelona;2826;6.29;4773.89;4300.8;0.11;Air Import;Brenda Koch
+749;Williams,GouldandLewis;2023-04-30;New York;Barcelona;2038;2.11;8445.6;7540.71;0.12;Air Import;Michael Scott DDS
+750;Santiago,HarrisandLynch;2023-06-26;Buenos Aires;Barcelona;1250;6.75;5433.26;4179.43;0.3;Air Import;Joseph Jordan
+751;GreenWave Manufacturing;2024-07-01;Chicago;Barcelona;2745;5.48;5853.37;4645.53;0.26;Import Sea;Joseph Jordan
+752;UrbanEdge Machinery;2023-09-07;Buenos Aires;Barcelona;2925;2.26;1695.41;1555.42;0.09;Air Import;Phillip Greer
+753;ZenithWorks Industries;2023-09-27;Barcelona;Doha;2513;3.78;6549.94;5413.17;0.21;Air Export;Patrick Barber
+754;PureWave Fabrication;2024-06-13;Casablanca;Barcelona;478;1.13;2534.3;2111.92;0.2;Air Import;Brady Wells
+755;NovaSphere Fabrication;2023-11-27;Barcelona;Tokyo;1308;6.29;10927.44;8672.57;0.26;Air Export;Ryan Camacho
+756;Henderson,BoydandShelton;2023-02-06;Casablanca;Barcelona;3319;2.1;5567.29;4601.07;0.21;Import Sea;Brady Wells
+757;EcoVista Steelworks;2023-05-27;Doha;Barcelona;425;4.41;8189.57;6299.67;0.3;Import Sea;Joseph Jordan
+758;HintonLLC;2024-06-11;Doha;Barcelona;2404;3.22;5214.63;4309.61;0.21;Air Import;Ryan Camacho
+759;Allen,WilliamsandWhite;2023-06-28;Chicago;Barcelona;931;3.1;7466.87;7044.22;0.06;Import Sea;Ryan Camacho
+760;SolarFlare Fabrication;2023-08-20;Los Angeles;Barcelona;1265;3.28;10789.29;8843.68;0.22;Air Import;Michael Scott DDS
+761;Allen,WilliamsandWhite;2024-02-09;Delhi;Barcelona;3003;3.87;2322.9;1888.54;0.23;Import Sea;Ryan Camacho
+762;ZenithWorks Industries;2024-05-08;Los Angeles;Barcelona;2863;2.8;11997.05;9521.47;0.26;Import Sea;Patrick Barber
+763;ApexFusion Works;2023-08-23;Riyadh;Barcelona;3250;1.05;3247.83;2824.2;0.15;Air Import;Joseph Jordan
+764;HintonLLC;2024-03-26;Tokyo;Barcelona;3855;3.24;4126.92;3328.16;0.24;Import Sea;Ryan Camacho
+765;NexaTech Manufacturing;2024-05-14;Delhi;Barcelona;220;5.51;5316.68;4968.86;0.07;Air Import;Brady Wells
+766;CrystalClear Machining;2023-03-13;Tokyo;Barcelona;3183;5.47;3573.83;3080.89;0.16;Air Import;Ryan Camacho
+767;Ward-Hays;2023-04-06;New York;Barcelona;3704;4.51;4660.25;4236.59;0.1;Air Import;Joseph Jordan
+768;Nolan,MeyersandJohnson;2024-07-23;Delhi;Barcelona;3574;5.06;5071.36;4568.79;0.11;Import Sea;Ryan Camacho
+769;Martinez-Wilson;2023-02-17;Dubai;Barcelona;3789;3.44;4917.12;4390.29;0.12;Import Sea;Dustin Martinez
+770;UrbanEdge Machinery;2023-12-08;Tokyo;Barcelona;526;6.2;3362.31;3029.11;0.11;Air Import;Phillip Greer
+771;CarterGroup;2023-04-10;Los Angeles;Barcelona;1456;1.47;1836.89;1481.36;0.24;Air Import;Michael Scott DDS
+772;Stone,WestandBurns;2023-11-19;Tokyo;Barcelona;3872;5.05;7212.58;6740.73;0.07;Import Sea;Phillip Greer
+773;HorizonX Foundry;2023-02-27;Tokyo;Barcelona;2322;4.79;2181.4;2038.69;0.07;Import Sea;Patrick Barber
+774;ZenithWorks Industries;2024-07-14;Johanesburg;Barcelona;1740;2.05;842.69;794.99;0.06;Air Import;Patrick Barber
+775;EcoVista Steelworks;2024-01-11;Los Angeles;Barcelona;2128;3.4;9776.74;7578.87;0.29;Import Sea;Joseph Jordan
+776;AeroNext Engineering;2024-05-18;Buenos Aires;Barcelona;2520;4.49;7368.4;5942.26;0.24;Air Import;Phillip Greer
+777;QuantumEcho Foundry;2024-01-28;Muscat;Barcelona;1545;1.67;5317.58;4664.54;0.14;Import Sea;Brenda Koch
+778;HintonLLC;2024-03-11;New York;Barcelona;2600;5.05;1389.14;1207.95;0.15;Import Sea;Ryan Camacho
+779;Ward-Wilcox;2024-03-19;Chicago;Barcelona;2991;5.55;6220.19;5316.4;0.17;Air Import;Michael Scott DDS
+780;ElliottLtd;2024-04-15;Sydney;Barcelona;2815;5.45;7549.0;6343.7;0.19;Air Import;Brenda Koch
+781;Allen,WilliamsandWhite;2023-08-13;Buenos Aires;Barcelona;3964;2.37;4139.47;3449.56;0.2;Air Import;Ryan Camacho
+782;AeroNext Engineering;2024-07-12;Johanesburg;Barcelona;2600;6.91;1447.99;1206.66;0.2;Import Sea;Phillip Greer
+783;InfiniteCrest Engineering;2023-08-20;Riyadh;Barcelona;2540;3.15;7928.86;6894.66;0.15;Air Import;Ryan Camacho
+784;InfiniteCrest Engineering;2023-04-25;Johanesburg;Barcelona;3026;4.63;814.75;721.02;0.13;Import Sea;Ryan Camacho
+785;SummitRise Steelworks;2024-02-18;Tokyo;Barcelona;2264;3.11;11947.5;9873.97;0.21;Air Import;Tammy Houston
+786;OptiCore Fabrication;2024-06-04;Buenos Aires;Barcelona;1357;6.84;2296.31;1882.22;0.22;Import Sea;Phillip Greer
+787;EcoVista Steelworks;2023-09-10;Buenos Aires;Barcelona;386;5.03;5758.49;4429.61;0.3;Air Import;Joseph Jordan
+788;Bass-Bolton;2023-05-05;Riyadh;Barcelona;1582;1.66;3487.58;3141.96;0.11;Air Import;Brenda Koch
+789;QuantumForge Industries;2023-05-17;Dubai;Barcelona;1678;4.21;8304.32;6751.48;0.23;Import Sea;Ryan Camacho
+790;Harris,CrawfordandScott;2023-10-03;Shanghai;Barcelona;3481;2.24;7731.7;6723.22;0.15;Air Import;Ryan Camacho
+791;RapidFlow Machining;2023-02-23;Muscat;Barcelona;2698;3.56;9320.14;7396.94;0.26;Import Sea;Ryan Camacho
+792;BrightMinds Machining;2024-03-09;Dubai;Barcelona;1978;6.9;1242.5;994.0;0.25;Import Sea;Ryan Camacho
+793;RapidFlow Machining;2023-09-29;Barcelona;Buenos Aires;1490;4.29;6640.85;5627.84;0.18;Export Sea;Ryan Camacho
+794;CrystalClear Machining;2024-04-10;Johanesburg;Barcelona;1382;1.63;2381.21;1967.94;0.21;Air Import;Ryan Camacho
+795;BlueHorizon Steel;2023-01-17;Riyadh;Barcelona;402;2.02;5305.92;4177.89;0.27;Import Sea;Brenda Koch
+796;InfiniteCrest Engineering;2023-01-03;Tokyo;Barcelona;2950;6.31;10919.17;9494.93;0.15;Air Import;Ryan Camacho
+797;Bennett,VillegasandFowler;2023-01-20;Casablanca;Barcelona;3436;4.34;10118.44;8648.24;0.17;Import Sea;Dustin Martinez
+798;Wells-Randall;2023-04-21;New York;Barcelona;2332;1.66;4585.01;4093.76;0.12;Import Sea;Michael Scott DDS
+799;Nolan,MeyersandJohnson;2023-03-22;Delhi;Barcelona;1002;4.5;11844.27;9551.83;0.24;Air Import;Ryan Camacho
+800;Waters,ReynoldsandHoward;2024-02-14;Riyadh;Barcelona;2639;1.61;10677.54;8752.08;0.22;Import Sea;Brady Wells
+801;SummitRise Steelworks;2024-02-03;Barcelona;Los Angeles;3641;6.0;4583.39;3756.88;0.22;Air Export;Tammy Houston
+802;SkyHigh Engineering;2024-02-10;Johanesburg;Barcelona;131;1.12;11368.13;9318.14;0.22;Import Sea;Tammy Houston
+803;GreenWave Manufacturing;2023-07-08;Delhi;Barcelona;215;5.98;2136.04;1959.67;0.09;Import Sea;Joseph Jordan
+804;Santiago,HarrisandLynch;2024-06-30;Barcelona;Casablanca;773;6.65;6491.26;5277.45;0.23;Export Sea;Joseph Jordan
+805;MortonandSons;2024-06-08;Muscat;Barcelona;471;3.22;5701.08;4790.82;0.19;Air Import;Brenda Koch
+806;Allen,WilliamsandWhite;2023-05-04;Chicago;Barcelona;885;5.6;7713.04;6170.43;0.25;Air Import;Ryan Camacho
+807;Perry-Garcia;2023-01-27;Chicago;Barcelona;680;4.79;4775.96;4082.02;0.17;Import Sea;Joseph Jordan
+808;InfiniteCrest Engineering;2023-05-20;Buenos Aires;Barcelona;151;5.25;4005.86;3154.22;0.27;Import Sea;Ryan Camacho
+809;QuantumForge Industries;2023-07-02;Riyadh;Barcelona;616;1.08;5862.33;5097.68;0.15;Import Sea;Ryan Camacho
+810;Walker,CruzandGarcia;2023-11-23;Delhi;Barcelona;3827;2.06;7519.87;7094.22;0.06;Air Import;Michael Scott DDS
+811;Nolan,MeyersandJohnson;2024-03-25;Riyadh;Barcelona;3553;3.27;2638.67;2127.96;0.24;Air Import;Ryan Camacho
+812;QuantumEcho Foundry;2023-02-27;Dubai;Barcelona;436;5.7;7908.92;6877.32;0.15;Import Sea;Brenda Koch
+813;QuantumForge Industries;2023-09-05;Casablanca;Barcelona;2212;1.87;6734.35;5475.08;0.23;Import Sea;Ryan Camacho
+814;QuantumForge Industries;2023-10-28;New York;Barcelona;1291;3.89;9940.68;8148.1;0.22;Air Import;Ryan Camacho
+815;QuantumForge Industries;2023-09-17;Johanesburg;Barcelona;789;5.68;7663.75;7162.38;0.07;Import Sea;Ryan Camacho
+816;UltraNet Foundry;2023-04-07;Chicago;Barcelona;1974;4.1;4290.46;3432.37;0.25;Import Sea;Brenda Koch
+817;Wells-Randall;2023-10-01;Barcelona;Casablanca;419;4.49;1240.81;1025.46;0.21;Export Sea;Michael Scott DDS
+818;ZenithWorks Industries;2023-04-10;Muscat;Barcelona;1463;5.77;4190.63;3809.66;0.1;Air Import;Patrick Barber
+819;InfiniteCrest Engineering;2023-11-09;Shanghai;Barcelona;2761;4.54;6284.53;5713.21;0.1;Air Import;Ryan Camacho
+820;Ward-Hays;2023-02-23;Buenos Aires;Barcelona;3758;6.09;8557.62;6901.31;0.24;Air Import;Joseph Jordan
+821;SummitRise Steelworks;2024-05-24;Chicago;Barcelona;1380;3.36;7409.97;6861.08;0.08;Air Import;Tammy Houston
+822;TerraVista Fabrication;2023-07-18;Riyadh;Barcelona;2902;5.91;10888.97;8642.04;0.26;Air Import;Brenda Koch
+823;EcoVista Steelworks;2023-08-04;Delhi;Barcelona;3589;1.61;3629.31;3423.88;0.06;Air Import;Joseph Jordan
+824;VitalEdge Manufacturing;2024-04-27;Muscat;Barcelona;2022;1.81;3395.11;2631.87;0.29;Air Import;Joseph Jordan
+825;Wells-Randall;2023-09-25;Shanghai;Barcelona;2968;4.53;10883.94;8437.16;0.29;Air Import;Michael Scott DDS
+826;Harris,CrawfordandScott;2024-05-22;Delhi;Barcelona;1333;6.25;9771.29;8724.37;0.12;Import Sea;Ryan Camacho
+827;Martinez-Wilson;2024-06-09;Casablanca;Barcelona;2851;6.82;3612.3;3168.68;0.14;Import Sea;Dustin Martinez
+828;QuantumEcho Foundry;2024-06-28;Tokyo;Barcelona;3915;1.76;2604.83;2207.48;0.18;Import Sea;Brenda Koch
+829;Santiago,HarrisandLynch;2024-01-01;Riyadh;Barcelona;1141;3.98;6315.04;5176.26;0.22;Import Sea;Joseph Jordan
+830;CarterGroup;2023-12-20;Muscat;Barcelona;3316;5.07;2052.22;1784.54;0.15;Import Sea;Michael Scott DDS
+831;EcoVista Steelworks;2023-02-27;Barcelona;Tokyo;2596;6.16;6464.46;5720.76;0.13;Air Export;Joseph Jordan
+832;Simmons-Turner;2024-06-22;Shanghai;Barcelona;2233;4.4;10211.56;9633.55;0.06;Air Import;Patrick Barber
+833;CrystalClear Machining;2023-05-08;Buenos Aires;Barcelona;1729;1.58;9555.88;8848.04;0.08;Air Import;Ryan Camacho
+834;OmniTech Fabrication;2023-10-23;Buenos Aires;Barcelona;2564;6.34;6012.32;5368.14;0.12;Air Import;Patrick Barber
+835;OptiCore Fabrication;2024-04-14;Dubai;Barcelona;1877;5.62;2853.14;2264.4;0.26;Air Import;Phillip Greer
+836;SolarFlare Fabrication;2023-11-18;Tokyo;Barcelona;3088;2.89;4123.13;3554.42;0.16;Air Import;Michael Scott DDS
+837;SkyHigh Engineering;2024-06-08;Sydney;Barcelona;295;5.98;8559.04;7710.85;0.11;Air Import;Tammy Houston
+838;UltraNet Foundry;2024-03-18;Doha;Barcelona;3238;5.84;9520.93;7934.11;0.2;Air Import;Brenda Koch
+839;PrismPeak Manufacturing;2023-12-16;Barcelona;Delhi;2329;4.61;10004.51;8268.19;0.21;Air Export;Tammy Houston
+840;HintonLLC;2023-03-19;Tokyo;Barcelona;719;4.89;2286.03;2177.17;0.05;Import Sea;Ryan Camacho
+841;Stone,WestandBurns;2024-02-05;Los Angeles;Barcelona;1468;4.82;7622.77;6993.37;0.09;Air Import;Phillip Greer
+842;MortonandSons;2023-02-22;Barcelona;Dubai;256;4.89;1398.4;1127.74;0.24;Export Sea;Brenda Koch
+843;BlueHorizon Steel;2023-08-04;Sydney;Barcelona;3345;5.65;11818.33;9530.91;0.24;Import Sea;Brenda Koch
+844;SummitRise Steelworks;2023-06-06;Johanesburg;Barcelona;1996;1.79;1369.14;1069.64;0.28;Air Import;Tammy Houston
+845;PureWave Fabrication;2023-02-16;Riyadh;Barcelona;2432;6.2;4225.93;3581.3;0.18;Import Sea;Brady Wells
+846;SkyHigh Engineering;2023-12-12;Los Angeles;Barcelona;3652;6.99;2017.51;1850.93;0.09;Import Sea;Tammy Houston
+847;Allen,WilliamsandWhite;2023-11-27;Tokyo;Barcelona;343;4.69;11302.54;9340.94;0.21;Import Sea;Ryan Camacho
+848;MortonandSons;2023-06-13;Tokyo;Barcelona;897;5.4;9147.41;7686.9;0.19;Import Sea;Brenda Koch
+849;Martinez-Wilson;2024-02-07;Shanghai;Barcelona;3064;3.43;10063.9;8249.1;0.22;Air Import;Dustin Martinez
+850;Ward-Wilcox;2024-01-24;Chicago;Barcelona;3515;1.43;5528.14;4285.38;0.29;Import Sea;Michael Scott DDS
+851;Walker,CruzandGarcia;2023-02-16;Sydney;Barcelona;837;3.73;11982.99;9289.14;0.29;Import Sea;Michael Scott DDS
+852;TerraVista Fabrication;2023-02-26;Tokyo;Barcelona;970;4.64;11183.54;8602.72;0.3;Import Sea;Brenda Koch
+853;Bennett,VillegasandFowler;2023-10-12;Los Angeles;Barcelona;1931;5.79;9234.62;7387.7;0.25;Import Sea;Dustin Martinez
+854;StellarWave Manufacturing;2023-02-12;Tokyo;Barcelona;3824;6.67;9476.97;7963.84;0.19;Air Import;Dustin Martinez
+855;AeroNext Engineering;2024-03-31;New York;Barcelona;1895;4.5;5412.72;4228.69;0.28;Air Import;Phillip Greer
+856;BrightMinds Machining;2023-08-17;Muscat;Barcelona;1029;3.83;7300.92;6240.1;0.17;Import Sea;Ryan Camacho
+857;BrightMinds Machining;2024-02-26;Casablanca;Barcelona;3660;6.12;4897.34;3796.39;0.29;Import Sea;Ryan Camacho
+858;CarterGroup;2023-12-23;Delhi;Barcelona;1695;5.86;7925.59;6774.01;0.17;Import Sea;Michael Scott DDS
+859;BrightMinds Machining;2023-12-24;Dubai;Barcelona;806;5.86;7951.58;6310.78;0.26;Import Sea;Ryan Camacho
+860;Ward-Hays;2023-02-08;Buenos Aires;Barcelona;481;5.11;8289.62;7820.4;0.06;Import Sea;Joseph Jordan
+861;Chandler,TurnerandHouston;2024-03-22;Johanesburg;Barcelona;1195;1.97;5991.75;5035.08;0.19;Air Import;Ryan Camacho
+862;ElliottLtd;2023-07-07;Chicago;Barcelona;3541;5.6;6236.37;4910.53;0.27;Import Sea;Brenda Koch
+863;Ward-Hays;2023-08-27;Dubai;Barcelona;3999;5.53;4235.67;3415.86;0.24;Import Sea;Joseph Jordan
+864;CrystalClear Machining;2023-03-04;Dubai;Barcelona;1192;3.22;5037.99;4095.93;0.23;Air Import;Ryan Camacho
+865;Waters,ReynoldsandHoward;2023-01-16;Tokyo;Barcelona;702;4.29;12200.41;9384.93;0.3;Import Sea;Brady Wells
+866;Bass-Bolton;2024-05-07;Muscat;Barcelona;2221;1.1;8389.0;7423.89;0.13;Import Sea;Brenda Koch
+867;SkyHigh Engineering;2023-01-09;Casablanca;Barcelona;2295;3.86;8595.6;6876.48;0.25;Air Import;Tammy Houston
+868;PeakPerformance Engineering;2024-04-25;Casablanca;Barcelona;2648;6.2;5289.86;4132.7;0.28;Air Import;Ryan Camacho
+869;InfiniteCrest Engineering;2024-02-25;Riyadh;Barcelona;3346;3.7;6763.15;6148.32;0.1;Air Import;Ryan Camacho
+870;Stone,WestandBurns;2023-10-29;New York;Barcelona;959;6.42;7277.56;6440.32;0.13;Import Sea;Phillip Greer
+871;CarterGroup;2023-08-19;New York;Barcelona;1263;2.01;3620.43;3068.16;0.18;Import Sea;Michael Scott DDS
+872;Waters,ReynoldsandHoward;2024-06-03;Buenos Aires;Barcelona;459;2.99;699.98;555.54;0.26;Air Import;Brady Wells
+873;Walker,CruzandGarcia;2023-04-06;Doha;Barcelona;1941;2.55;5645.11;4743.79;0.19;Air Import;Michael Scott DDS
+874;Santiago,HarrisandLynch;2023-11-23;Sydney;Barcelona;1989;2.83;4860.12;4226.19;0.15;Air Import;Joseph Jordan
+875;PrismPeak Manufacturing;2024-05-09;Buenos Aires;Barcelona;3661;3.85;7523.34;6217.64;0.21;Air Import;Tammy Houston
+876;ApexFusion Works;2024-01-17;Dubai;Barcelona;1474;6.42;3708.69;3341.16;0.11;Air Import;Joseph Jordan
+877;CrystalClear Machining;2023-07-04;Shanghai;Barcelona;2477;5.72;4013.31;3716.03;0.08;Air Import;Ryan Camacho
+878;InfiniteCrest Engineering;2023-11-21;Shanghai;Barcelona;675;3.59;4362.55;3381.82;0.29;Import Sea;Ryan Camacho
+879;Martinez-Wilson;2023-04-06;Riyadh;Barcelona;1448;3.46;2630.68;2055.22;0.28;Import Sea;Dustin Martinez
+880;Ward-Hays;2024-04-06;Delhi;Barcelona;426;2.75;9365.83;7937.14;0.18;Air Import;Joseph Jordan
+881;NexaTech Manufacturing;2023-12-12;New York;Barcelona;3360;4.39;9817.29;8113.46;0.21;Import Sea;Brady Wells
+882;ZenithWorks Industries;2023-12-11;Casablanca;Barcelona;1017;6.96;10054.37;8378.64;0.2;Import Sea;Patrick Barber
+883;Henderson,BoydandShelton;2023-11-01;Muscat;Barcelona;3173;6.45;4006.49;3105.81;0.29;Import Sea;Brady Wells
+884;RapidFlow Machining;2024-01-10;Los Angeles;Barcelona;3299;2.67;5622.31;4570.98;0.23;Import Sea;Ryan Camacho
+885;Martinez-Wilson;2023-06-22;Dubai;Barcelona;2174;1.22;3185.43;2869.76;0.11;Import Sea;Dustin Martinez
+886;Bennett,VillegasandFowler;2023-03-07;Dubai;Barcelona;991;3.47;10001.68;9010.52;0.11;Air Import;Dustin Martinez
+887;ZenithWorks Industries;2023-09-25;Johanesburg;Barcelona;211;4.9;9896.96;8758.37;0.13;Air Import;Patrick Barber
+888;HorizonX Foundry;2024-02-16;Doha;Barcelona;1485;2.92;1818.17;1553.99;0.17;Air Import;Patrick Barber
+889;MortonandSons;2024-04-15;Dubai;Barcelona;2803;2.61;9890.37;9157.75;0.08;Import Sea;Brenda Koch
+890;Allen,WilliamsandWhite;2023-06-20;Dubai;Barcelona;2160;6.86;8135.39;6560.8;0.24;Import Sea;Ryan Camacho
+891;RapidFlow Machining;2024-01-16;Tokyo;Barcelona;2928;1.0;816.07;697.5;0.17;Air Import;Ryan Camacho
+892;NexaTech Manufacturing;2023-06-11;Barcelona;Delhi;3821;2.18;8737.15;7664.17;0.14;Export Sea;Brady Wells
+893;SummitRise Steelworks;2024-02-24;Casablanca;Barcelona;1455;1.22;4723.77;4217.65;0.12;Import Sea;Tammy Houston
+894;ElliottLtd;2023-01-09;Tokyo;Barcelona;1682;5.66;10915.95;9834.19;0.11;Import Sea;Brenda Koch
+895;RapidFlow Machining;2023-05-28;Tokyo;Barcelona;1729;6.6;8888.54;8307.05;0.07;Air Import;Ryan Camacho
+896;ElliottLtd;2023-01-23;New York;Barcelona;1308;1.92;3147.25;2835.36;0.11;Import Sea;Brenda Koch
+897;TerraVista Fabrication;2024-01-07;Delhi;Barcelona;2045;2.62;7316.67;5948.51;0.23;Air Import;Brenda Koch
+898;EcoVista Steelworks;2023-12-25;Tokyo;Barcelona;1897;1.73;10153.14;7810.11;0.3;Import Sea;Joseph Jordan
+899;OmniTech Fabrication;2023-12-07;Dubai;Barcelona;3952;4.72;2240.94;1836.84;0.22;Air Import;Patrick Barber
+900;Williams,GouldandLewis;2023-02-13;New York;Barcelona;457;6.72;10375.42;8944.33;0.16;Air Import;Michael Scott DDS
+901;Harris,CrawfordandScott;2023-03-30;Buenos Aires;Barcelona;2389;6.71;6870.31;5725.26;0.2;Air Import;Ryan Camacho
+902;SummitRise Steelworks;2023-09-07;Chicago;Barcelona;1303;2.55;6103.23;5401.09;0.13;Air Import;Tammy Houston
+903;Mcdaniel,MooreandJackson;2023-05-02;Sydney;Barcelona;1685;6.65;1664.87;1310.92;0.27;Import Sea;Brenda Koch
+904;CrystalClear Machining;2023-10-04;Tokyo;Barcelona;885;5.38;2813.9;2325.54;0.21;Import Sea;Ryan Camacho
+905;StellarWave Manufacturing;2023-03-02;Casablanca;Barcelona;2003;1.73;7139.22;5666.05;0.26;Import Sea;Dustin Martinez
+906;Ascendia SteelworksMartin-Holden;2023-09-20;Muscat;Barcelona;1819;3.57;11413.68;9511.4;0.2;Air Import;Joseph Jordan
+907;Walker,CruzandGarcia;2023-02-05;Barcelona;Casablanca;2281;5.1;9691.88;8427.72;0.15;Export Sea;Michael Scott DDS
+908;Santiago,HarrisandLynch;2024-03-23;Barcelona;Los Angeles;683;3.13;10756.58;9519.1;0.13;Air Export;Joseph Jordan
+909;Mcdaniel,MooreandJackson;2023-03-19;Riyadh;Barcelona;2962;6.96;6732.8;6011.43;0.12;Air Import;Brenda Koch
+910;ShortLtd;2024-05-14;Shanghai;Barcelona;955;1.23;9316.27;7962.62;0.17;Import Sea;Michael Scott DDS
+911;AeroNext Engineering;2024-04-20;Doha;Barcelona;570;4.11;6059.84;5315.65;0.14;Import Sea;Phillip Greer
+912;OmniTech Fabrication;2023-09-16;Dubai;Barcelona;1326;4.78;2496.27;2311.36;0.08;Air Import;Patrick Barber
+913;VitalEdge Manufacturing;2024-07-19;Barcelona;Los Angeles;3610;4.37;8324.13;7636.82;0.09;Air Export;Joseph Jordan
+914;Stone,WestandBurns;2023-08-24;Tokyo;Barcelona;1517;5.82;5293.92;4201.52;0.26;Air Import;Phillip Greer
+915;NovaSphere Fabrication;2023-08-10;Sydney;Barcelona;351;2.76;7313.57;6529.97;0.12;Air Import;Ryan Camacho
+916;Bass-Bolton;2024-03-17;Los Angeles;Barcelona;2848;2.69;1740.74;1500.64;0.16;Air Import;Brenda Koch
+917;RapidFlow Machining;2023-06-13;Doha;Barcelona;3816;1.69;3384.26;3048.88;0.11;Import Sea;Ryan Camacho
+918;HintonGroup;2024-03-13;Delhi;Barcelona;3465;5.07;4072.33;3310.84;0.23;Air Import;Ryan Camacho
+919;ApexFusion Works;2023-02-11;Tokyo;Barcelona;3069;6.38;5260.71;4312.06;0.22;Import Sea;Joseph Jordan
+920;SummitRise Steelworks;2024-04-01;Doha;Barcelona;2932;5.35;6928.24;6131.19;0.13;Air Import;Tammy Houston
+921;OmniTech Fabrication;2023-02-10;New York;Barcelona;3641;6.44;12166.26;9358.66;0.3;Import Sea;Patrick Barber
+922;Walker,CruzandGarcia;2024-02-26;Sydney;Barcelona;1134;2.36;4837.0;4606.67;0.05;Import Sea;Michael Scott DDS
+923;EcoVista Steelworks;2023-04-21;Muscat;Barcelona;2945;5.49;9647.97;8463.13;0.14;Import Sea;Joseph Jordan
+924;HintonGroup;2024-04-21;Barcelona;Riyadh;2663;6.49;12056.31;9418.99;0.28;Export Sea;Ryan Camacho
+925;Walker,CruzandGarcia;2024-01-29;Delhi;Barcelona;876;2.85;9359.03;7864.73;0.19;Import Sea;Michael Scott DDS
+926;BlueHorizon Steel;2023-07-12;Shanghai;Barcelona;319;5.19;3174.24;2580.68;0.23;Air Import;Brenda Koch
+927;Nolan,MeyersandJohnson;2024-02-17;Buenos Aires;Barcelona;1782;1.5;1144.08;1059.33;0.08;Air Import;Ryan Camacho
+928;Nolan,MeyersandJohnson;2024-05-02;Chicago;Barcelona;3480;3.39;11481.77;9259.49;0.24;Import Sea;Ryan Camacho
+929;GreenWave Manufacturing;2023-12-06;Casablanca;Barcelona;2133;5.35;8076.1;6409.6;0.26;Import Sea;Joseph Jordan
+930;ZenithWorks Industries;2023-06-08;Chicago;Barcelona;1319;6.36;4463.49;3750.83;0.19;Air Import;Patrick Barber
+931;SkyHigh Engineering;2023-01-10;Chicago;Barcelona;3462;2.98;7023.52;6107.41;0.15;Air Import;Tammy Houston
+932;Waters,ReynoldsandHoward;2024-06-01;Tokyo;Barcelona;3216;5.66;4490.58;4157.94;0.08;Import Sea;Brady Wells
+933;QuantumEcho Foundry;2023-05-22;Los Angeles;Barcelona;1336;1.97;8486.04;7071.7;0.2;Import Sea;Brenda Koch
+934;Mcdaniel,MooreandJackson;2023-06-22;Johanesburg;Barcelona;207;3.84;8625.99;7701.78;0.12;Air Import;Brenda Koch
+935;Ward-Wilcox;2023-10-02;Chicago;Barcelona;3732;4.72;1330.31;1187.78;0.12;Import Sea;Michael Scott DDS
+936;BrightMinds Machining;2024-03-22;Casablanca;Barcelona;973;5.25;1916.7;1558.29;0.23;Import Sea;Ryan Camacho
+937;Stone,WestandBurns;2024-01-01;Barcelona;Delhi;2236;4.49;2976.7;2362.46;0.26;Export Sea;Phillip Greer
+938;QuantumForge Industries;2023-11-12;New York;Barcelona;1694;4.69;3731.11;3487.02;0.07;Air Import;Ryan Camacho
+939;Perry-Garcia;2023-09-18;Casablanca;Barcelona;1820;3.84;1038.08;857.92;0.21;Import Sea;Joseph Jordan
+940;Ward-Hays;2023-03-01;Riyadh;Barcelona;1705;1.92;5267.57;4317.68;0.22;Air Import;Joseph Jordan
+941;Waters,ReynoldsandHoward;2024-07-08;Dubai;Barcelona;3726;2.19;11754.65;9556.63;0.23;Import Sea;Brady Wells
+942;Perry-Garcia;2023-07-07;Barcelona;Los Angeles;2534;6.93;3835.05;3169.46;0.21;Air Export;Joseph Jordan
+943;LeachGroup;2023-08-11;Chicago;Barcelona;967;5.02;12230.05;9862.94;0.24;Import Sea;Tammy Houston
+944;MortonandSons;2024-03-27;Sydney;Barcelona;2615;5.13;3880.08;3626.24;0.07;Import Sea;Brenda Koch
+945;StellarWave Manufacturing;2024-03-25;Shanghai;Barcelona;1369;6.06;9053.11;7128.43;0.27;Import Sea;Dustin Martinez
+946;GreenWave Manufacturing;2024-04-25;Delhi;Barcelona;3694;6.69;6594.8;5734.61;0.15;Import Sea;Joseph Jordan
+947;SolarFlare Fabrication;2024-07-24;Johanesburg;Barcelona;2988;1.21;9191.04;7992.21;0.15;Air Import;Michael Scott DDS
+948;PureWave Fabrication;2023-11-23;Barcelona;Johanesburg;367;5.87;1029.56;980.53;0.05;Export Sea;Brady Wells
+949;QuantumEcho Foundry;2024-01-24;Casablanca;Barcelona;1822;5.57;4106.35;3802.18;0.08;Air Import;Brenda Koch
+950;SmithLtd;2023-03-10;Tokyo;Barcelona;2557;1.47;2393.77;2081.54;0.15;Air Import;Ryan Camacho
+951;PeakPerformance Engineering;2023-05-09;Shanghai;Barcelona;963;6.42;8117.46;7447.21;0.09;Import Sea;Ryan Camacho
+952;GarciaGroup;2023-06-20;New York;Barcelona;3736;4.48;5597.87;4704.09;0.19;Air Import;Daniel Goodman
+953;BrightMinds Machining;2023-08-31;Sydney;Barcelona;2612;5.46;4240.57;3820.33;0.11;Import Sea;Ryan Camacho
+954;Simmons-Turner;2023-01-22;Sydney;Barcelona;2049;6.32;4014.35;3649.41;0.1;Air Import;Patrick Barber
+955;Chandler,TurnerandHouston;2024-02-03;Riyadh;Barcelona;2052;3.96;11471.67;9251.35;0.24;Import Sea;Ryan Camacho
+956;GreenWave Manufacturing;2023-01-03;Riyadh;Barcelona;2633;6.62;9298.16;8085.36;0.15;Import Sea;Joseph Jordan
+957;Klein,RobinsonandMiller;2023-08-12;Delhi;Barcelona;3064;6.95;2511.53;2009.22;0.25;Import Sea;Daniel Goodman
+958;SmithLtd;2024-07-12;Buenos Aires;Barcelona;3659;3.01;9616.25;8585.94;0.12;Air Import;Ryan Camacho
+959;Mcdaniel,MooreandJackson;2023-02-27;Tokyo;Barcelona;3605;2.99;12248.73;9878.01;0.24;Import Sea;Brenda Koch
+960;SkyHigh Engineering;2024-07-17;Shanghai;Barcelona;555;4.63;960.41;865.23;0.11;Import Sea;Tammy Houston
+961;SwiftStream Foundry;2023-08-16;Dubai;Barcelona;1324;1.33;9425.76;7663.22;0.23;Air Import;Daniel Goodman
+962;SummitRise Steelworks;2023-02-09;Dubai;Barcelona;2779;2.46;5402.78;4540.15;0.19;Air Import;Tammy Houston
+963;Walker,CruzandGarcia;2024-07-18;Tokyo;Barcelona;3956;2.1;10493.04;9993.37;0.05;Import Sea;Michael Scott DDS
+964;SolarFlare Fabrication;2024-07-09;Doha;Barcelona;1516;6.13;7346.83;6122.36;0.2;Import Sea;Michael Scott DDS
+965;Bennett,VillegasandFowler;2024-04-11;Doha;Barcelona;621;2.24;3585.86;3415.1;0.05;Air Import;Dustin Martinez
+966;HorizonX Foundry;2024-01-07;Barcelona;Doha;1278;4.76;10648.31;8800.26;0.21;Air Export;Patrick Barber
+967;InfiniteCrest Engineering;2024-05-09;Tokyo;Barcelona;2426;5.53;9929.86;8344.42;0.19;Import Sea;Ryan Camacho
+968;PureWave Fabrication;2023-01-18;Buenos Aires;Barcelona;1272;6.62;2765.75;2560.88;0.08;Import Sea;Brady Wells
+969;EcoVista Steelworks;2023-12-26;Barcelona;Delhi;2643;5.21;7346.05;6443.9;0.14;Air Export;Joseph Jordan
+970;EcoVista Steelworks;2023-12-05;New York;Barcelona;576;2.79;8461.8;6509.08;0.3;Air Import;Joseph Jordan
+971;UrbanEdge Machinery;2024-01-11;Doha;Barcelona;2840;6.58;8446.68;6980.73;0.21;Air Import;Phillip Greer
+972;InfiniteCrest Engineering;2024-04-01;Dubai;Barcelona;2546;2.85;1713.95;1490.39;0.15;Import Sea;Ryan Camacho
+973;ShortLtd;2024-02-26;Muscat;Barcelona;3713;3.05;8512.49;7668.91;0.11;Import Sea;Michael Scott DDS
+974;CarterGroup;2024-07-17;Sydney;Barcelona;3529;3.77;10312.47;9374.97;0.1;Air Import;Michael Scott DDS
+975;Nolan,MeyersandJohnson;2023-12-08;Johanesburg;Barcelona;3350;1.38;5564.07;4346.93;0.28;Air Import;Ryan Camacho
+976;CrystalClear Machining;2023-08-24;Los Angeles;Barcelona;364;6.01;4549.12;4173.5;0.09;Air Import;Ryan Camacho
+977;Klein,RobinsonandMiller;2024-03-23;Buenos Aires;Barcelona;2419;2.21;9798.4;8233.95;0.19;Air Import;Daniel Goodman
+978;Stone,WestandBurns;2023-11-18;Doha;Barcelona;3130;3.17;4573.11;4314.25;0.06;Air Import;Phillip Greer
+979;PureWave Fabrication;2023-05-20;Dubai;Barcelona;1234;5.82;11606.14;9359.79;0.24;Air Import;Brady Wells
+980;UrbanEdge Machinery;2024-03-20;Shanghai;Barcelona;694;2.34;1319.57;1157.52;0.14;Air Import;Phillip Greer
+981;HintonLLC;2024-04-05;Doha;Barcelona;1654;6.28;7031.0;5908.4;0.19;Air Import;Ryan Camacho
+982;PrismPeak Manufacturing;2023-10-06;Riyadh;Barcelona;1562;2.62;4497.97;3717.33;0.21;Import Sea;Tammy Houston
+983;BlueHorizon Steel;2023-11-06;Buenos Aires;Barcelona;302;3.41;7997.2;6555.08;0.22;Air Import;Brenda Koch
+984;CarterGroup;2024-05-03;Tokyo;Barcelona;3263;3.06;3083.19;2446.98;0.26;Air Import;Michael Scott DDS
+985;Martinez-Wilson;2023-07-06;Dubai;Barcelona;283;3.65;8788.82;8063.14;0.09;Air Import;Dustin Martinez
+986;PrismPeak Manufacturing;2024-07-07;Los Angeles;Barcelona;1208;2.49;8671.58;6937.26;0.25;Air Import;Tammy Houston
+987;CrystalClear Machining;2023-09-21;Riyadh;Barcelona;2296;5.91;794.7;742.71;0.07;Import Sea;Ryan Camacho
+988;Waters,ReynoldsandHoward;2024-05-09;Tokyo;Barcelona;2374;2.56;980.83;875.74;0.12;Import Sea;Brady Wells
+989;CrystalClear Machining;2023-04-22;Los Angeles;Barcelona;2371;3.06;11348.76;9868.49;0.15;Air Import;Ryan Camacho
+990;Perry-Garcia;2023-01-22;Buenos Aires;Barcelona;3374;4.02;3326.38;2843.06;0.17;Import Sea;Joseph Jordan
+991;Santiago,HarrisandLynch;2024-03-17;Sydney;Barcelona;1487;6.04;1255.3;1120.8;0.12;Air Import;Joseph Jordan
+992;ElliottLtd;2023-09-06;Chicago;Barcelona;1807;2.07;1967.75;1626.24;0.21;Import Sea;Brenda Koch
+993;NovaSphere Fabrication;2023-10-16;Chicago;Barcelona;2026;5.19;1854.0;1571.19;0.18;Air Import;Ryan Camacho
+994;SummitRise Steelworks;2023-03-21;Barcelona;Sydney;363;4.67;715.12;650.11;0.1;Export Sea;Tammy Houston
+995;BlueHorizon Steel;2023-10-08;Shanghai;Barcelona;2674;5.45;8273.01;6952.11;0.19;Import Sea;Brenda Koch
+996;ShortLtd;2023-04-08;Buenos Aires;Barcelona;1347;1.6;728.94;694.23;0.05;Import Sea;Michael Scott DDS
+997;SwiftStream Foundry;2024-06-18;Delhi;Barcelona;3297;2.04;743.0;657.52;0.13;Import Sea;Daniel Goodman
+998;BrightMinds Machining;2023-02-10;Muscat;Barcelona;3518;4.22;5642.21;4863.97;0.16;Import Sea;Ryan Camacho
+999;HintonLLC;2023-10-10;Buenos Aires;Barcelona;1411;3.4;6546.93;6061.97;0.08;Air Import;Ryan Camacho
+1000;GreenWave Manufacturing;2024-03-19;New York;Barcelona;3557;5.49;1121.72;934.77;0.2;Air Import;Joseph Jordan
+1001;StellarWave Manufacturing;2023-07-29;Chicago;Barcelona;2163;2.37;2649.5;2264.53;0.17;Air Import;Dustin Martinez
+1002;StellarWave Manufacturing;2024-02-22;Buenos Aires;Barcelona;156;4.39;2486.83;2143.82;0.16;Air Import;Dustin Martinez
+1003;NexaTech Manufacturing;2024-01-18;Riyadh;Barcelona;2388;6.02;3988.83;3438.65;0.16;Import Sea;Brady Wells
+1004;QuantumForge Industries;2023-08-29;Doha;Barcelona;1386;1.05;4232.71;3441.23;0.23;Air Import;Ryan Camacho
+1005;LeachGroup;2024-05-17;Delhi;Barcelona;987;2.18;10613.48;9392.46;0.13;Air Import;Tammy Houston
+1006;SolarFlare Fabrication;2023-03-19;Delhi;Barcelona;3804;3.89;2290.93;2063.9;0.11;Air Import;Michael Scott DDS
+1007;Waters,ReynoldsandHoward;2023-09-23;Barcelona;Sydney;378;4.8;10062.12;8049.7;0.25;Air Export;Brady Wells
+1008;Henderson,BoydandShelton;2024-03-21;New York;Barcelona;2138;4.42;11172.39;9083.24;0.23;Import Sea;Brady Wells
+1009;Martinez-Wilson;2024-05-22;Tokyo;Barcelona;3648;2.43;3212.42;2947.17;0.09;Air Import;Dustin Martinez
+1010;CrystalClear Machining;2024-06-13;Tokyo;Barcelona;3969;4.08;6829.33;6208.48;0.1;Import Sea;Ryan Camacho
+1011;Santiago,HarrisandLynch;2023-12-29;Muscat;Barcelona;1539;4.19;10870.15;8627.1;0.26;Air Import;Joseph Jordan
+1012;BrightMinds Machining;2024-02-23;Shanghai;Barcelona;1501;5.82;11292.8;9819.83;0.15;Import Sea;Ryan Camacho
+1013;QuantumForge Industries;2024-07-15;Chicago;Barcelona;3523;1.63;6820.84;5246.8;0.3;Import Sea;Ryan Camacho
+1014;Allen,WilliamsandWhite;2023-10-21;Los Angeles;Barcelona;3544;2.43;9527.42;7385.6;0.29;Import Sea;Ryan Camacho
+1015;LeachGroup;2024-07-14;Chicago;Barcelona;3313;1.36;5828.96;5447.63;0.07;Air Import;Tammy Houston
+1016;CarterGroup;2023-11-22;Tokyo;Barcelona;2151;4.34;2462.17;2178.91;0.13;Air Import;Michael Scott DDS
+1017;BrightMinds Machining;2024-01-18;Delhi;Barcelona;3571;5.76;4565.46;4150.42;0.1;Import Sea;Ryan Camacho
+1018;Ward-Wilcox;2024-05-05;Doha;Barcelona;1957;6.59;4634.88;4213.53;0.1;Air Import;Michael Scott DDS
+1019;NexaTech Manufacturing;2023-06-28;Tokyo;Barcelona;1706;6.83;8283.22;7741.33;0.07;Import Sea;Brady Wells
+1020;Henderson,BoydandShelton;2023-06-20;Delhi;Barcelona;2025;1.6;9196.6;7129.15;0.29;Import Sea;Brady Wells
+1021;RapidFlow Machining;2024-05-28;Riyadh;Barcelona;2674;1.63;3454.03;3140.03;0.1;Air Import;Ryan Camacho
+1022;UrbanEdge Machinery;2023-08-22;Dubai;Barcelona;3881;6.54;7127.72;6788.3;0.05;Air Import;Phillip Greer
+1023;RapidFlow Machining;2023-10-12;Los Angeles;Barcelona;1078;3.62;9067.18;8395.54;0.08;Import Sea;Ryan Camacho
+1024;SwiftStream Foundry;2023-08-18;Muscat;Barcelona;2870;3.26;5857.08;5473.91;0.07;Air Import;Daniel Goodman
+1025;Santiago,HarrisandLynch;2024-02-29;New York;Barcelona;2946;6.71;9147.39;7497.86;0.22;Import Sea;Joseph Jordan
+1026;GarciaGroup;2023-02-03;Riyadh;Barcelona;1746;3.98;8803.16;7157.04;0.23;Import Sea;Daniel Goodman
+1027;Wells-Randall;2023-10-26;Los Angeles;Barcelona;3147;6.08;2160.36;1701.07;0.27;Air Import;Michael Scott DDS
+1028;TerraVista Fabrication;2024-07-14;Casablanca;Barcelona;3457;2.15;7050.6;5779.18;0.22;Import Sea;Brenda Koch
+1029;InfiniteCrest Engineering;2024-03-22;Buenos Aires;Barcelona;3210;2.78;2245.86;1825.9;0.23;Import Sea;Ryan Camacho
+1030;UltraNet Foundry;2024-06-27;Tokyo;Barcelona;1470;3.26;4806.48;3697.29;0.3;Import Sea;Brenda Koch
+1031;SkyHigh Engineering;2024-01-22;Doha;Barcelona;2832;3.91;11808.1;9225.08;0.28;Air Import;Tammy Houston
+1032;HintonLLC;2023-12-29;Sydney;Barcelona;1785;5.81;9964.78;8444.73;0.18;Air Import;Ryan Camacho
+1033;Mcdaniel,MooreandJackson;2024-04-02;Sydney;Barcelona;2917;4.29;5645.01;5178.91;0.09;Import Sea;Brenda Koch
+1034;Henderson,BoydandShelton;2023-11-17;Tokyo;Barcelona;3647;5.35;1241.9;1171.6;0.06;Import Sea;Brady Wells
+1035;Simmons-Turner;2024-01-22;Los Angeles;Barcelona;3235;2.88;4414.38;3648.25;0.21;Import Sea;Patrick Barber
+1036;InfiniteCrest Engineering;2024-02-25;Muscat;Barcelona;180;2.25;787.55;620.12;0.27;Air Import;Ryan Camacho
+1037;Ward-Hays;2023-08-24;Dubai;Barcelona;3447;3.92;8805.78;7792.73;0.13;Air Import;Joseph Jordan
+1038;SmithLtd;2023-07-18;Casablanca;Barcelona;2463;2.89;6501.75;5557.05;0.17;Air Import;Ryan Camacho
+1039;Perry-Garcia;2023-12-01;Johanesburg;Barcelona;2998;1.42;8265.84;6888.2;0.2;Import Sea;Joseph Jordan
+1040;Ascendia SteelworksMartin-Holden;2023-06-30;Buenos Aires;Barcelona;1639;2.87;11106.44;8745.23;0.27;Air Import;Joseph Jordan
+1041;BrightMinds Machining;2024-07-24;Sydney;Barcelona;1022;1.1;684.04;594.82;0.15;Air Import;Ryan Camacho
+1042;GreenWave Manufacturing;2024-05-17;Casablanca;Barcelona;3948;3.65;10239.14;7937.32;0.29;Air Import;Joseph Jordan
+1043;Walker,CruzandGarcia;2023-01-07;Chicago;Barcelona;3512;1.2;11022.59;9421.02;0.17;Import Sea;Michael Scott DDS
+1044;VitalEdge Manufacturing;2023-07-19;Sydney;Barcelona;730;5.64;2232.59;1771.9;0.26;Import Sea;Joseph Jordan
+1045;NovaSphere Fabrication;2023-10-31;Dubai;Barcelona;2093;6.93;3077.39;2607.96;0.18;Air Import;Ryan Camacho
+1046;UrbanEdge Machinery;2023-07-25;Doha;Barcelona;699;1.91;9554.2;8846.48;0.08;Air Import;Phillip Greer
+1047;Mcdaniel,MooreandJackson;2024-05-04;Johanesburg;Barcelona;2672;4.68;5962.7;5140.26;0.16;Air Import;Brenda Koch
+1048;GarciaGroup;2023-04-23;Chicago;Barcelona;140;3.28;4300.55;3644.53;0.18;Air Import;Daniel Goodman
+1049;CrystalClear Machining;2023-05-08;Barcelona;Sydney;1870;6.32;10446.87;9005.92;0.16;Air Export;Ryan Camacho
+1050;Bass-Bolton;2023-09-30;New York;Barcelona;3014;1.36;1904.56;1656.14;0.15;Import Sea;Brenda Koch
+1051;BlueHorizon Steel;2023-10-25;Barcelona;Shanghai;3624;5.82;10219.61;9206.86;0.11;Export Sea;Brenda Koch
+1052;MortonandSons;2024-01-07;Delhi;Barcelona;1192;3.92;3878.14;3152.96;0.23;Import Sea;Brenda Koch
+1053;MortonandSons;2024-04-15;Casablanca;Barcelona;1445;4.39;5162.77;4412.62;0.17;Air Import;Brenda Koch
+1054;CarterGroup;2023-07-04;Casablanca;Barcelona;3245;5.55;9775.45;8427.11;0.16;Air Import;Michael Scott DDS
+1055;CrystalClear Machining;2024-01-22;Sydney;Barcelona;959;6.36;3133.62;2448.14;0.28;Import Sea;Ryan Camacho
+1056;CarterGroup;2024-04-11;Shanghai;Barcelona;466;3.16;7944.92;6620.77;0.2;Air Import;Michael Scott DDS
+1057;Walker,CruzandGarcia;2024-04-10;New York;Barcelona;494;3.15;7597.89;6907.17;0.1;Import Sea;Michael Scott DDS
+1058;PrismPeak Manufacturing;2024-03-13;Muscat;Barcelona;2239;2.26;7660.33;6227.91;0.23;Import Sea;Tammy Houston
+1059;RapidFlow Machining;2024-06-14;Muscat;Barcelona;750;4.78;4158.01;3885.99;0.07;Air Import;Ryan Camacho
+1060;Ward-Wilcox;2023-01-01;Dubai;Barcelona;644;4.26;1374.07;1108.12;0.24;Import Sea;Michael Scott DDS
+1061;Stone,WestandBurns;2023-07-10;Muscat;Barcelona;1778;2.86;8184.33;7307.44;0.12;Import Sea;Phillip Greer
+1062;SolarFlare Fabrication;2024-03-16;Riyadh;Barcelona;3904;2.43;6628.83;5099.1;0.3;Import Sea;Michael Scott DDS
+1063;SolarFlare Fabrication;2023-03-17;Tokyo;Barcelona;658;3.13;1843.96;1549.55;0.19;Air Import;Michael Scott DDS
+1064;Mcdaniel,MooreandJackson;2023-04-22;Barcelona;New York;225;2.31;2254.43;2126.82;0.06;Export Sea;Brenda Koch
+1065;Klein,RobinsonandMiller;2023-10-04;Buenos Aires;Barcelona;1528;3.63;8131.1;7009.57;0.16;Air Import;Daniel Goodman
+1066;SmithLtd;2024-06-18;Johanesburg;Barcelona;1841;4.18;3712.01;3093.34;0.2;Air Import;Ryan Camacho
+1067;ShortLtd;2023-12-20;Shanghai;Barcelona;2271;6.14;1099.93;940.11;0.17;Air Import;Michael Scott DDS
+1068;Perry-Garcia;2024-05-05;Muscat;Barcelona;2948;1.55;8353.02;6903.32;0.21;Air Import;Joseph Jordan
+1069;AeroNext Engineering;2024-05-05;Muscat;Barcelona;2273;6.49;1678.17;1446.7;0.16;Air Import;Phillip Greer
+1070;Ward-Hays;2024-02-02;Johanesburg;Barcelona;3769;3.26;2529.83;1961.11;0.29;Import Sea;Joseph Jordan
+1071;AeroNext Engineering;2023-05-31;New York;Barcelona;3770;2.31;7225.02;6628.46;0.09;Import Sea;Phillip Greer
+1072;UltraNet Foundry;2024-06-28;Sydney;Barcelona;2116;2.79;4893.71;4147.21;0.18;Import Sea;Brenda Koch
+1073;Santiago,HarrisandLynch;2024-05-07;Chicago;Barcelona;2405;4.75;7093.93;5862.75;0.21;Import Sea;Joseph Jordan
+1074;Henderson,BoydandShelton;2024-01-05;Sydney;Barcelona;3837;4.82;11229.6;9680.69;0.16;Import Sea;Brady Wells
+1075;SmithLtd;2023-03-31;Los Angeles;Barcelona;2747;5.72;5501.12;4701.81;0.17;Air Import;Ryan Camacho
+1076;PureWave Fabrication;2023-06-18;Shanghai;Barcelona;2240;6.04;5337.22;4561.73;0.17;Air Import;Brady Wells
+1077;Klein,RobinsonandMiller;2023-05-05;Tokyo;Barcelona;3674;3.65;4250.14;3972.09;0.07;Air Import;Daniel Goodman
+1078;Chandler,TurnerandHouston;2023-11-24;Barcelona;Dubai;3145;1.59;4723.61;4333.59;0.09;Air Export;Ryan Camacho
+1079;VitalEdge Manufacturing;2023-02-27;Johanesburg;Barcelona;486;5.52;4060.95;3148.02;0.29;Air Import;Joseph Jordan
+1080;Chandler,TurnerandHouston;2023-05-10;Doha;Barcelona;3296;4.91;11848.62;9956.82;0.19;Air Import;Ryan Camacho
+1081;Nolan,MeyersandJohnson;2023-07-12;Muscat;Barcelona;3668;5.63;3104.71;2503.8;0.24;Import Sea;Ryan Camacho
+1082;SkyHigh Engineering;2023-07-09;Los Angeles;Barcelona;1697;4.77;10392.75;9622.92;0.08;Air Import;Tammy Houston
+1083;AeroNext Engineering;2024-03-18;Buenos Aires;Barcelona;1394;2.19;3695.91;2980.57;0.24;Import Sea;Phillip Greer
+1084;Mcdaniel,MooreandJackson;2023-07-15;Doha;Barcelona;3181;6.26;1867.22;1637.91;0.14;Air Import;Brenda Koch
+1085;SkyHigh Engineering;2024-06-30;Barcelona;New York;1427;6.85;4932.09;4251.8;0.16;Air Export;Tammy Houston
+1086;GreenWave Manufacturing;2023-02-09;Shanghai;Barcelona;1009;3.89;9556.82;9101.73;0.05;Import Sea;Joseph Jordan
+1087;SummitRise Steelworks;2023-09-11;Riyadh;Barcelona;3960;6.96;7708.34;6477.6;0.19;Air Import;Tammy Houston
+1088;Allen,WilliamsandWhite;2024-07-09;New York;Barcelona;2086;6.81;4911.42;4092.85;0.2;Air Import;Ryan Camacho
+1089;UltraNet Foundry;2023-07-21;Sydney;Barcelona;1615;3.37;10661.45;9963.97;0.07;Air Import;Brenda Koch
+1090;OmniTech Fabrication;2024-04-23;Buenos Aires;Barcelona;2490;2.74;6265.54;5644.63;0.11;Air Import;Patrick Barber
+1091;GreenWave Manufacturing;2024-04-12;Delhi;Barcelona;1144;5.59;1037.61;810.63;0.28;Import Sea;Joseph Jordan
+1092;UrbanEdge Machinery;2023-11-07;Los Angeles;Barcelona;2702;2.13;4488.71;4007.78;0.12;Import Sea;Phillip Greer
+1093;ApexFusion Works;2024-02-23;Los Angeles;Barcelona;2680;3.83;10715.14;8572.11;0.25;Import Sea;Joseph Jordan
+1094;Perry-Garcia;2024-03-30;Muscat;Barcelona;947;3.13;10553.1;8180.7;0.29;Import Sea;Joseph Jordan
+1095;EcoVista Steelworks;2024-07-10;Los Angeles;Barcelona;594;5.32;8106.56;7049.18;0.15;Import Sea;Joseph Jordan
+1096;CrystalClear Machining;2024-05-03;Dubai;Barcelona;2408;6.01;6787.24;6006.41;0.13;Import Sea;Ryan Camacho
+1097;HintonLLC;2024-04-11;Dubai;Barcelona;144;6.35;6582.21;5773.87;0.14;Import Sea;Ryan Camacho
+1098;Chandler,TurnerandHouston;2023-11-21;Dubai;Barcelona;911;4.43;9635.68;7587.15;0.27;Import Sea;Ryan Camacho
+1099;Williams,GouldandLewis;2023-05-28;Shanghai;Barcelona;3654;4.28;11738.18;9029.37;0.3;Import Sea;Michael Scott DDS
+1100;NexaTech Manufacturing;2024-03-23;Buenos Aires;Barcelona;674;3.32;3799.73;2968.54;0.28;Import Sea;Brady Wells
+1101;Williams,GouldandLewis;2023-02-13;Delhi;Barcelona;1367;3.78;9375.31;8680.84;0.08;Air Import;Michael Scott DDS
+1102;BlueHorizon Steel;2024-01-14;Buenos Aires;Barcelona;901;5.02;3761.72;2985.49;0.26;Air Import;Brenda Koch
+1103;Wells-Randall;2024-02-20;Delhi;Barcelona;339;2.36;3328.76;2797.28;0.19;Import Sea;Michael Scott DDS
+1104;AeroNext Engineering;2024-01-24;Los Angeles;Barcelona;3198;3.6;7142.68;6211.03;0.15;Air Import;Phillip Greer
+1105;Harris,CrawfordandScott;2024-07-23;Sydney;Barcelona;3519;2.67;9579.99;8403.5;0.14;Import Sea;Ryan Camacho
+1106;OmniTech Fabrication;2024-01-13;Tokyo;Barcelona;3924;4.24;12642.47;9954.7;0.27;Import Sea;Patrick Barber
+1107;ApexFusion Works;2023-12-26;Los Angeles;Barcelona;827;6.63;8109.31;7372.1;0.1;Import Sea;Joseph Jordan
+1108;Allen,WilliamsandWhite;2023-05-04;Delhi;Barcelona;3007;6.36;2005.24;1591.46;0.26;Import Sea;Ryan Camacho
+1109;Bass-Bolton;2023-02-03;Doha;Barcelona;491;1.25;1814.11;1462.99;0.24;Air Import;Brenda Koch
+1110;ElliottLtd;2024-03-30;Sydney;Barcelona;2144;5.17;9018.59;7578.65;0.19;Air Import;Brenda Koch
+1111;Ward-Wilcox;2023-06-16;Tokyo;Barcelona;1227;4.24;7804.16;6243.33;0.25;Import Sea;Michael Scott DDS
+1112;Martinez-Wilson;2024-01-23;Barcelona;Dubai;3735;5.98;2117.95;1721.91;0.23;Export Sea;Dustin Martinez
+1113;Bennett,VillegasandFowler;2024-02-12;Chicago;Barcelona;2610;2.2;4048.99;3680.9;0.1;Import Sea;Dustin Martinez
+1114;Henderson,BoydandShelton;2023-04-17;New York;Barcelona;1358;4.06;3972.9;3056.08;0.3;Air Import;Brady Wells
+1115;Martinez-Wilson;2023-01-02;Doha;Barcelona;3706;6.59;4392.87;3600.71;0.22;Air Import;Dustin Martinez
+1116;Mcdaniel,MooreandJackson;2023-03-10;Doha;Barcelona;1903;2.45;12134.0;9630.16;0.26;Air Import;Brenda Koch
+1117;SwiftStream Foundry;2024-03-31;Barcelona;New York;3657;4.83;3153.95;2791.11;0.13;Export Sea;Daniel Goodman
+1118;GreenWave Manufacturing;2023-04-15;Shanghai;Barcelona;991;3.88;9642.8;9096.98;0.06;Air Import;Joseph Jordan
+1119;Williams,GouldandLewis;2024-01-06;Johanesburg;Barcelona;1546;3.17;6322.74;5909.1;0.07;Air Import;Michael Scott DDS
+1120;CrystalClear Machining;2024-04-05;Dubai;Barcelona;789;2.96;12774.67;9980.21;0.28;Import Sea;Ryan Camacho
+1121;TerraVista Fabrication;2023-08-13;Shanghai;Barcelona;3895;3.22;7970.6;7116.61;0.12;Import Sea;Brenda Koch
+1122;ShortLtd;2024-02-20;New York;Barcelona;547;1.5;620.83;559.31;0.11;Air Import;Michael Scott DDS
+1123;Simmons-Turner;2023-11-29;Casablanca;Barcelona;602;5.16;7388.27;5727.34;0.29;Air Import;Patrick Barber
+1124;Klein,RobinsonandMiller;2023-02-16;Chicago;Barcelona;112;1.59;1924.37;1590.39;0.21;Import Sea;Daniel Goodman
+1125;Bennett,VillegasandFowler;2023-03-08;Muscat;Barcelona;289;5.86;2030.45;1897.62;0.07;Air Import;Dustin Martinez
+1126;HintonLLC;2023-07-31;Casablanca;Barcelona;441;3.66;3797.87;3421.5;0.11;Air Import;Ryan Camacho
+1127;TerraVista Fabrication;2023-03-01;Tokyo;Barcelona;3570;1.36;3786.36;3380.68;0.12;Air Import;Brenda Koch
+1128;HintonLLC;2024-03-19;Dubai;Barcelona;2674;5.44;7847.06;6594.17;0.19;Air Import;Ryan Camacho
+1129;BlueHorizon Steel;2024-01-16;Chicago;Barcelona;1420;4.73;6726.22;6286.19;0.07;Import Sea;Brenda Koch
+1130;SummitRise Steelworks;2023-11-24;Johanesburg;Barcelona;932;2.91;7103.13;6516.63;0.09;Import Sea;Tammy Houston
+1131;HorizonX Foundry;2023-05-06;Doha;Barcelona;3224;4.63;6634.59;5622.53;0.18;Air Import;Patrick Barber
+1132;QuantumEcho Foundry;2023-03-26;Doha;Barcelona;372;6.26;8725.31;6924.85;0.26;Air Import;Brenda Koch
+1133;Ward-Wilcox;2023-09-10;Chicago;Barcelona;3077;5.36;3653.93;2854.63;0.28;Air Import;Michael Scott DDS
+1134;TerraVista Fabrication;2023-06-21;Doha;Barcelona;1605;4.32;3914.66;3317.51;0.18;Air Import;Brenda Koch
+1135;UrbanEdge Machinery;2023-05-13;Tokyo;Barcelona;1157;2.24;5068.53;4607.75;0.1;Import Sea;Phillip Greer
+1136;EcoVista Steelworks;2023-12-22;Muscat;Barcelona;1645;3.69;6751.6;5770.6;0.17;Air Import;Joseph Jordan
+1137;Simmons-Turner;2023-11-04;Casablanca;Barcelona;2566;1.51;5543.56;4862.77;0.14;Import Sea;Patrick Barber
+1138;Mcdaniel,MooreandJackson;2024-02-17;Dubai;Barcelona;1955;2.36;2616.95;2275.61;0.15;Import Sea;Brenda Koch
+1139;GarciaGroup;2023-11-10;Barcelona;Doha;2392;4.69;8019.55;7425.51;0.08;Air Export;Daniel Goodman
+1140;Ward-Hays;2024-04-22;Shanghai;Barcelona;116;6.31;4189.2;3707.26;0.13;Air Import;Joseph Jordan
+1141;Santiago,HarrisandLynch;2023-01-10;Casablanca;Barcelona;3059;3.28;1056.02;926.33;0.14;Import Sea;Joseph Jordan
+1142;Mcdaniel,MooreandJackson;2024-01-12;Barcelona;Los Angeles;1889;2.76;7469.81;6277.15;0.19;Air Export;Brenda Koch
+1143;PrismPeak Manufacturing;2024-06-02;Los Angeles;Barcelona;1272;1.47;2101.77;1910.7;0.1;Import Sea;Tammy Houston
+1144;PureWave Fabrication;2023-10-14;Los Angeles;Barcelona;2294;2.83;3629.61;2903.69;0.25;Import Sea;Brady Wells
+1145;Allen,WilliamsandWhite;2024-07-08;Barcelona;Muscat;1382;6.6;5925.49;5537.84;0.07;Air Export;Ryan Camacho
+1146;OmniTech Fabrication;2023-05-30;Doha;Barcelona;3235;2.67;5479.78;5073.87;0.08;Air Import;Patrick Barber
+1147;SmithLtd;2023-09-05;Tokyo;Barcelona;1800;1.73;4283.78;3757.7;0.14;Air Import;Ryan Camacho
+1148;UrbanEdge Machinery;2023-02-26;Tokyo;Barcelona;3177;2.91;11235.63;9441.71;0.19;Import Sea;Phillip Greer
+1149;PrismPeak Manufacturing;2024-06-18;Casablanca;Barcelona;464;2.11;2753.81;2394.62;0.15;Air Import;Tammy Houston
+1150;HintonGroup;2024-01-15;Buenos Aires;Barcelona;2534;5.49;11282.29;8883.69;0.27;Import Sea;Ryan Camacho
+1151;Martinez-Wilson;2023-05-06;New York;Barcelona;3269;1.11;12058.79;9965.94;0.21;Air Import;Dustin Martinez
+1152;AeroNext Engineering;2023-12-09;Shanghai;Barcelona;3739;1.83;12536.16;9643.2;0.3;Air Import;Phillip Greer
+1153;RapidFlow Machining;2023-02-05;Doha;Barcelona;3789;3.33;10317.7;8188.65;0.26;Air Import;Ryan Camacho
+1154;RapidFlow Machining;2024-05-11;Tokyo;Barcelona;2449;2.03;9750.93;9198.99;0.06;Import Sea;Ryan Camacho
+1155;CrystalClear Machining;2024-03-20;Los Angeles;Barcelona;2444;3.95;10924.86;9583.21;0.14;Air Import;Ryan Camacho
+1156;StellarWave Manufacturing;2023-11-07;Johanesburg;Barcelona;3595;2.98;5556.38;4874.02;0.14;Import Sea;Dustin Martinez
+1157;Ward-Hays;2023-08-17;Shanghai;Barcelona;2492;3.64;896.65;717.32;0.25;Air Import;Joseph Jordan
+1158;SummitRise Steelworks;2023-01-09;Dubai;Barcelona;330;3.57;1637.51;1423.92;0.15;Air Import;Tammy Houston
+1159;CarterGroup;2023-07-12;Los Angeles;Barcelona;3135;6.7;7651.06;7217.98;0.06;Air Import;Michael Scott DDS
+1160;Bass-Bolton;2024-03-23;Barcelona;Tokyo;1587;2.93;3228.75;2857.3;0.13;Export Sea;Brenda Koch
+1161;Perry-Garcia;2023-11-01;Dubai;Barcelona;1009;2.5;8736.35;7731.28;0.13;Import Sea;Joseph Jordan
+1162;NexaTech Manufacturing;2023-10-15;Doha;Barcelona;3882;4.25;9849.14;8639.6;0.14;Import Sea;Brady Wells
+1163;Santiago,HarrisandLynch;2023-02-18;Tokyo;Barcelona;3454;5.48;3864.54;3275.03;0.18;Import Sea;Joseph Jordan
+1164;PrismPeak Manufacturing;2024-02-17;Johanesburg;Barcelona;1682;6.84;4754.11;4485.01;0.06;Import Sea;Tammy Houston
+1165;SummitRise Steelworks;2023-03-02;Delhi;Barcelona;2013;3.68;6653.12;5836.07;0.14;Import Sea;Tammy Houston
+1166;SmithLtd;2024-06-07;New York;Barcelona;199;5.29;4561.88;4303.66;0.06;Air Import;Ryan Camacho
+1167;Bass-Bolton;2024-02-02;Delhi;Barcelona;101;6.21;2735.48;2486.8;0.1;Import Sea;Brenda Koch
+1168;EcoVista Steelworks;2024-06-18;Barcelona;Buenos Aires;2315;4.77;4783.15;3826.52;0.25;Export Sea;Joseph Jordan
+1169;Henderson,BoydandShelton;2023-11-11;Los Angeles;Barcelona;884;2.17;8347.26;7949.77;0.05;Import Sea;Brady Wells
+1170;ApexFusion Works;2023-05-07;Buenos Aires;Barcelona;1992;3.18;3630.64;3457.75;0.05;Air Import;Joseph Jordan
+1171;SolarFlare Fabrication;2024-05-21;Doha;Barcelona;2184;2.86;6167.13;5873.46;0.05;Import Sea;Michael Scott DDS
+1172;CrystalClear Machining;2023-07-09;Muscat;Barcelona;790;4.21;1827.7;1708.13;0.07;Air Import;Ryan Camacho
+1173;CrystalClear Machining;2023-03-02;Buenos Aires;Barcelona;2794;3.63;11473.48;9252.81;0.24;Import Sea;Ryan Camacho
+1174;TerraVista Fabrication;2023-11-24;Dubai;Barcelona;2978;5.5;8946.51;7847.82;0.14;Import Sea;Brenda Koch
+1175;HintonGroup;2023-04-22;Muscat;Barcelona;3310;3.3;10170.01;8136.01;0.25;Air Import;Ryan Camacho
+1176;NovaSphere Fabrication;2023-08-17;Los Angeles;Barcelona;1178;1.33;3139.55;2573.4;0.22;Air Import;Ryan Camacho
+1177;StellarWave Manufacturing;2023-06-27;New York;Barcelona;3832;3.08;1108.36;865.91;0.28;Air Import;Dustin Martinez
+1178;Simmons-Turner;2024-04-08;Sydney;Barcelona;757;2.11;4640.31;3772.61;0.23;Air Import;Patrick Barber
+1179;Stone,WestandBurns;2023-01-23;Riyadh;Barcelona;2368;3.9;5632.34;5263.87;0.07;Import Sea;Phillip Greer
+1180;Williams,GouldandLewis;2024-01-05;Tokyo;Barcelona;3190;3.54;3759.71;3327.18;0.13;Air Import;Michael Scott DDS
+1181;PrismPeak Manufacturing;2024-04-14;Chicago;Barcelona;367;6.15;10326.06;9650.52;0.07;Air Import;Tammy Houston
+1182;NexaTech Manufacturing;2024-03-31;Doha;Barcelona;1684;6.81;11005.33;9914.71;0.11;Import Sea;Brady Wells
+1183;Martinez-Wilson;2024-04-10;Tokyo;Barcelona;3600;2.08;9508.68;8970.45;0.06;Air Import;Dustin Martinez
+1184;Perry-Garcia;2023-03-15;Sydney;Barcelona;2153;4.12;7163.91;6758.41;0.06;Air Import;Joseph Jordan
+1185;CarterGroup;2023-07-24;Muscat;Barcelona;1086;6.39;10040.53;8581.65;0.17;Import Sea;Michael Scott DDS
+1186;QuantumForge Industries;2023-08-31;Doha;Barcelona;617;4.51;9349.07;7663.17;0.22;Air Import;Ryan Camacho
+1187;EcoVista Steelworks;2023-01-02;Delhi;Barcelona;2745;4.89;5470.66;4240.82;0.29;Import Sea;Joseph Jordan
+1188;Allen,WilliamsandWhite;2023-07-03;New York;Barcelona;3861;5.41;4830.91;4352.17;0.11;Air Import;Ryan Camacho
+1189;Wells-Randall;2024-03-15;Riyadh;Barcelona;1297;1.77;7619.71;6144.93;0.24;Import Sea;Michael Scott DDS
+1190;TerraVista Fabrication;2023-08-07;Delhi;Barcelona;3703;1.46;7675.67;7107.1;0.08;Air Import;Brenda Koch
+1191;CrystalClear Machining;2024-05-23;Tokyo;Barcelona;2127;2.41;2863.43;2701.35;0.06;Air Import;Ryan Camacho
+1192;SummitRise Steelworks;2023-01-03;Muscat;Barcelona;3008;4.22;8094.95;6373.98;0.27;Air Import;Tammy Houston
+1193;Martinez-Wilson;2023-03-06;Dubai;Barcelona;2994;2.09;1724.64;1499.69;0.15;Import Sea;Dustin Martinez
+1194;Wells-Randall;2023-06-29;Riyadh;Barcelona;573;1.81;4218.14;3766.2;0.12;Air Import;Michael Scott DDS
+1195;HorizonX Foundry;2024-01-14;Buenos Aires;Barcelona;3380;6.23;7015.71;5568.02;0.26;Air Import;Patrick Barber
+1196;OmniTech Fabrication;2023-08-20;Los Angeles;Barcelona;2603;6.92;5986.7;5345.27;0.12;Air Import;Patrick Barber
+1197;StellarWave Manufacturing;2024-07-21;Chicago;Barcelona;586;6.23;8898.89;8089.9;0.1;Import Sea;Dustin Martinez
+1198;QuantumEcho Foundry;2023-11-17;Chicago;Barcelona;3712;6.61;4618.31;4276.21;0.08;Import Sea;Brenda Koch
+1199;Simmons-Turner;2023-07-04;Buenos Aires;Barcelona;2258;5.92;1341.78;1040.14;0.29;Air Import;Patrick Barber
+1200;Klein,RobinsonandMiller;2023-09-29;Chicago;Barcelona;417;3.03;4373.01;3526.62;0.24;Import Sea;Daniel Goodman
