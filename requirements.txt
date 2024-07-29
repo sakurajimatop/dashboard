@@ -1,6 +1,6 @@
 plotly.express
 pandas
-pyyaml
+yaml==0.2.5
 streamlit_aunthenticator
 time
 plotly.graph_objects
