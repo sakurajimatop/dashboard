@@ -18,6 +18,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 import time
+import plotly.graph_objects as go
 from pandas.api.types import (
     is_categorical_dtype,
     is_datetime64_any_dtype,
@@ -102,9 +103,7 @@ def filter_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-with open(
-    "/home/sakurajima/Documents/dexter_lab/python_local/projects/streamlit/config.yaml"
-) as file:
+with open("config.yaml") as file:
     config = yaml.load(file, Loader=SafeLoader)
 
 authenticator = stauth.Authenticate(
@@ -131,7 +130,7 @@ if st.session_state["authentication_status"]:
     #     st.success("Done!")
 
     df = pd.read_csv(
-        "/home/sakurajima/Documents/dexter_lab/python_local/projects/kedro_etl/shipments.csv",
+        "shipments.csv",
         sep=";",
         encoding="latin1",
     )
@@ -148,7 +147,48 @@ if st.session_state["authentication_status"]:
         color=df.Date.dt.year,
         barmode="group",
     )
+
+    month_order = [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+    ]
+
+    fig.update_layout(
+        title="Monthly Sales",
+        xaxis_title="Sales",
+        yaxis_title="Month",
+        yaxis={
+            "categoryorder": "array",
+            "categoryarray": month_order,
+        },  # Ensure the y-axis is sorted correctly
+    )
     st.plotly_chart(fig, use_container_width=True)
+
+    department_fig = go.Figure(
+        go.Bar(
+            x=df["Gross Margin"],
+            y=df["Department"],
+            orientation="h",
+            hovertemplate="<b>Gross Margin:</b> %{x}<br>",
+        )
+    )
+    department_fig.update_yaxes(
+        categoryorder="total ascending"
+    )  # https://plotly.com/python/categorical-axes/
+
+    st.plotly_chart(department_fig, use_container_width=True)
+
+
 elif st.session_state["authentication_status"] is False:
     st.error("Username/password is incorrect")
 elif st.session_state["authentication_status"] is None:
